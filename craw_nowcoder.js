@@ -1,7 +1,7 @@
 const axios = require('axios');
 const fs = require('fs')
 
-let all = [], ALL = 26, cid = 11254
+let all = [], ALL = 27, cid = 11256
 
 function work(cid) {
   let ranks = {}, i = 0
