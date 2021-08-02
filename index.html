@@ -19,6 +19,31 @@
       "/stat.json",
       {},
       function (data) {
+        let scores = data.scores, arr = [];
+        for (let team in scores) {
+          let all = scores[team];
+          all.sort(function (a, b) {
+            return b - a;
+          });
+          let p = 0, q = 0;
+          for (let x of all) {
+            p += x;
+            ++q;
+            if (q == 15)
+              break;
+          }
+          arr.push({
+            name: team,
+            score: p / q
+          });
+        }
+        arr.sort(function (a, b) {
+          return b.score - a.score;
+        });
+        let teamsSorted = [];
+        for (let i in arr)
+          teamsSorted.push(arr[i].name);
+
         let selected = {};
         for (let d of data.teams)
           selected[d] = false;
@@ -28,7 +53,7 @@
             trigger: 'axis'
           },
           legend: {
-            data: data.teams,
+            data: teamsSorted,
             selected: selected
           },
           grid: {
@@ -53,27 +78,7 @@
           series: data.data
         };
         myChart.setOption(option);
-        let scores = data.scores, arr = [];
-        for (let team in scores) {
-          let all = scores[team];
-          all.sort(function (a, b) {
-            return b - a;
-          });
-          let p = 0, q = 0;
-          for (let x of all) {
-            p += x;
-            ++q;
-            if (q == 15)
-              break;
-          }
-          arr.push({
-            name: team,
-            score: p / q
-          });
-        }
-        arr.sort(function (a, b) {
-          return b.score - a.score;
-        });
+
 
         const member = {
           "0xCCCCCCCC": "孙明志 林麒 梁昊骞",
