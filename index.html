@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>暑期训练！</title>
+  <script src="https://cdn.bootcdn.net/ajax/libs/echarts/5.1.2/echarts.min.js"></script>
+  <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+</head>
+
+<body>
+  <h1>2021 Summer Training</h1>
+  <h1></h1>
+  <div id="chart" style="width: 1000px;height:1000px;"></div>
+  <table style="padding: 20px;">
+    <tbody id="ranking"></tbody>
+  </table>
+  <script>
+    $.get(
+      "/stat.json",
+      {},
+      function (data) {
+        let selected = {};
+        for (let d of data.teams)
+          selected[d] = true;
+        let myChart = echarts.init(document.getElementById('chart'));
+        let option = {
+          tooltip: {
+            trigger: 'axis'
+          },
+          legend: {
+            data: data.teams,
+            selected: selected
+          },
+          grid: {
+            left: '3%',
+            right: '4%',
+            bottom: '3%',
+            containLabel: true
+          },
+          toolbox: {
+            feature: {
+              saveAsImage: {}
+            }
+          },
+          xAxis: {
+            type: 'category',
+            boundaryGap: false,
+            data: data.conts
+          },
+          yAxis: {
+            type: 'value'
+          },
+          series: data.data
+        };
+        myChart.setOption(option);
+        let attr = '';
+        let scores = data.scores, arr = [];
+        for (let team in scores) {
+          let all = scores[team];
+          all.sort(function (a, b) {
+            return b - a;
+          });
+          let p = 0, q = 0;
+          for (let x of all) {
+            p += x;
+            ++q;
+            if (q == 15)
+              break;
+          }
+          arr.push({
+            name: team,
+            score: p / q
+          });
+        }
+        arr.sort(function (a, b) {
+          return b.score - a.score;
+        });
+
+        for (let i in arr) {
+          let details = "";
+          for (let c of data.conts)
+            details += `<td style="padding: 10px;">${data.teamStats[c][arr[i].name] || "-"}</td>`;
+          attr += `<tr style="padding: 10px;"><td style="padding: 10px;" >${i}</td><td>${arr[i].name}</td><td>${arr[i].score.toFixed(2)}</td>${details}</tr>`;
+        }
+
+        console.log(attr);
+        $('#ranking').html(attr);
+      },
+      "json"
+    );
+
+    function getAccount(oj) {
+      $.get(
+        "http://81.70.144.208:5471/acc",
+        {
+          member: prompt('请输入三位队员的姓名')
+        },
+        function (data) {
+          alert(data);
+        },
+        "json"
+      );
+    }
+  </script>
+
+</body>
+
+
+</html>
