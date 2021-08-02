@@ -15,6 +15,7 @@
   </table>
   <div id="chart" style="width: 1000px;height:1000px;"></div>
   <script>
+    const COUNT = 7;
     $.get(
       "/stat.json",
       {},
@@ -29,7 +30,7 @@
           for (let x of all) {
             p += x;
             ++q;
-            if (q == 7)
+            if (q == COUNT)
               break;
           }
           arr.push({
@@ -105,7 +106,7 @@
           "": "汪嘉 崔骄杨 王泽昊"
         };
 
-        let attr = '<tr style="padding: 10px;"><td>rank</td><td>team</td><td>top15 avg</td>';
+        let attr = `<tr style="padding: 10px;"><td>rank</td><td>team</td><td>top${COUNT} avg</td>`;
         for (let i in data.conts)
           attr += `<td style="padding: 10px;">${data.conts[i]}</td>`;
         attr += "</tr>";
