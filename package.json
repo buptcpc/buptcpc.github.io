@@ -4,8 +4,8 @@
   "description": "",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "generate": "node -r esm generate.js",
-    "nowcoder": "node -r craw_nowcoder.js"
+    "generate": "node generate.js",
+    "nowcoder": "node craw_nowcoder.js"
   },
   "author": "",
   "license": "ISC",
