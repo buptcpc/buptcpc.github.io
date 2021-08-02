@@ -87,19 +87,14 @@ function load(contest) {
       for (let t of tableData)
         if (t.name == item.name) {
           found = true;
-          // t.data.push(score);
-          scores[item.name].push(score);
-          if (item.name == "Harmony")
-            console.log(t.data);
+          scores[item.name].push(parseFloat(score.toFixed(2)));
         }
       if (!found) {
         scores[item.name] = [];
         for (let i = 0; i < conts.length - 1; ++i)
           scores[item.name].push(0);
-        scores[item.name].push(score);
+        scores[item.name].push(parseFloat(score.toFixed(2)));
         tableData.push({ "name": item.name, "type": "line", "data": scores[item.name], "markLine": { "data": [{ "type": "average", "name": "平均值" }] } });
-        if (item.name == "Harmony")
-          console.log('fuck', scores[item.name]);
       }
     }
   }
