@@ -77,8 +77,6 @@ function load(contest) {
       item.name = (item.name.split('   '))[0];
       if (item.name in buptHDU)
         item.name = buptHDU[item.name];
-      if (item.name == "Harmony")
-        console.log(item, score);
     }
     if (Object.values(buptHDU).includes(item.name)) {
       teams.add(item.name);
