@@ -43,19 +43,19 @@ function load(contest) {
     "team0436": "0xCCCCCCCC",
     "team0421": "Harmony",
     "team0438": "asdf2",
-    "team0422": "",
+    "team0422": "balloonless",
     "team0439": "NMLPC",
-    "team0432": "",
+    "team0432": "热爱105种算法的你",
     "team0433": "不死吃了",
     "team0434": "needone",
-    "team0423": "",
+    "team0423": "寄！",
     "team0424": "我与肚肚势不两立",
-    "team0440": "",
+    "team0440": "沙河软件园",
     "team0425": "Burn_Horse",
     "team0426": "莱鸡",
     "team0427": "team-1",
     "team0435": "FPE",
-    "team0428": "",
+    "team0428": "三只猫猫一锅汤",
     "team0429": "三只蒟蒻_threekonjaks",
     "team0430": "混到极致便是C",
     "team0437": "无main之王"
@@ -80,7 +80,7 @@ function load(contest) {
       if (item.name == "Harmony")
         console.log(item, score);
     }
-    if (item.school == "北京邮电大学") {
+    if (item.name in Object.values(buptHDU)) {
       teams.add(item.name);
       teamStats[contest][item.name] = `${item.rank}/${cnt}/${score.toFixed(2)}`;
       let found = false;
