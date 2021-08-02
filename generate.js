@@ -80,7 +80,7 @@ function load(contest) {
       if (item.name == "Harmony")
         console.log(item, score);
     }
-    if (item.name in Object.values(buptHDU)) {
+    if (Object.values(buptHDU).includes(item.name)) {
       teams.add(item.name);
       teamStats[contest][item.name] = `${item.rank}/${cnt}/${score.toFixed(2)}`;
       let found = false;
