@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>����ѵ����</title>
+  <title>暑期训练！</title>
   <script src="https://cdn.bootcdn.net/ajax/libs/echarts/5.1.2/echarts.min.js"></script>
   <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
 </head>
@@ -76,11 +76,36 @@
           return b.score - a.score;
         });
 
+        const member = {
+          "0xCCCCCCCC": "孙明志 林麒 梁昊骞",
+          "Harmony": "刘涛 段锦宇 范珈诚",
+          "asdf2": "厉昊南 王乾凱 陈天奇",
+          "balloonless": "董建威 樊星宇 雍梓奇",
+          "NMLPC": "董凯文 汤子唯 高畅",
+          "": "范森然 王天行 陈杰祥",
+          "不死吃了": "郑嘉佑 侯德政 韩谨谦",
+          "needone": "祝梓毅 张晏宁 陈睿扬",
+          "寄！": "林新元 董英杰 程泓涛",
+          "我与肚肚势不两立": "刘东岫 郑金亮 池纪君",
+          "沙河软件园": "赵鹏鸿 黄逸飞 娄司宇",
+          "Burn_Horse": "马玉龙 代皓燃 佘俊达",
+          "莱鸡": "马志 刘子彬 崔芳洲",
+          "team -1": "石映奇 王肇汉 黄思喆",
+          "FPE": "苏承烨 李健扬 庄铭淳",
+          "三只猫猫一锅汤": "陈冠州 赵昕鹏 李亦非",
+          "三只蒟蒻_threekonjaks": "王佳禾 张天泽 梁博元",
+          "混到极致便是C": "王晓晖 石成旭 王仕和",
+          "无main之王": "崔镇东 王致恒 王浚哲",
+          "": "邓逸伦 谢滨竹 郭宇璨",
+          "一起开车": "李伟宏 张震 丁健",
+          "": "汪嘉 崔骄杨 王泽昊"
+        };
+
         for (let i in arr) {
           let details = "";
           for (let c of data.conts)
             details += `<td style="padding: 10px;">${data.teamStats[c][arr[i].name] || "-"}</td>`;
-          attr += `<tr style="padding: 10px;"><td style="padding: 10px;" >${i}</td><td>${arr[i].name}</td><td>${arr[i].score.toFixed(2)}</td>${details}</tr>`;
+          attr += `<tr style="padding: 10px;"><td style="padding: 10px;" >${parseInt(i) + 1}</td><td>${arr[i].name}(${member[arr[i].name]})</td><td>${arr[i].score.toFixed(2)}</td>${details}</tr>`;
         }
 
         console.log(attr);
@@ -88,19 +113,6 @@
       },
       "json"
     );
-
-    function getAccount(oj) {
-      $.get(
-        "http://81.70.144.208:5471/acc",
-        {
-          member: prompt('��������λ��Ա������')
-        },
-        function (data) {
-          alert(data);
-        },
-        "json"
-      );
-    }
   </script>
 
 </body>
