@@ -10,10 +10,10 @@
 <body>
   <h1>2021 Summer Training</h1>
   <h1></h1>
-  <div id="chart" style="width: 1000px;height:1000px;"></div>
   <table style="padding: 20px;">
     <tbody id="ranking"></tbody>
   </table>
+  <div id="chart" style="width: 1000px;height:1000px;"></div>
   <script>
     $.get(
       "/stat.json",
@@ -21,7 +21,7 @@
       function (data) {
         let selected = {};
         for (let d of data.teams)
-          selected[d] = true;
+          selected[d] = false;
         let myChart = echarts.init(document.getElementById('chart'));
         let option = {
           tooltip: {
@@ -53,7 +53,6 @@
           series: data.data
         };
         myChart.setOption(option);
-        let attr = '';
         let scores = data.scores, arr = [];
         for (let team in scores) {
           let all = scores[team];
@@ -100,6 +99,11 @@
           "一起开车": "李伟宏 张震 丁健",
           "": "汪嘉 崔骄杨 王泽昊"
         };
+
+        let attr = '<tr><td>rank</td><td>team</td>';
+        for (let i in data.conts)
+          attr += `<td>${data.conts[i]}(排名/题数/得分)</td>`;
+        attr += "</tr>";
 
         for (let i in arr) {
           let details = "";
