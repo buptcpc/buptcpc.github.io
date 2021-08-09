@@ -15,11 +15,12 @@
   </table>
   <div id="chart" style="width: 1000px;height:1000px;"></div>
   <script>
-    const COUNT = 15;
     $.get(
       "/stat.json",
       {},
       function (data) {
+        const COUNT = data.conts.length * 15 / 20;
+
         let scores = data.scores, arr = [];
         for (let team in scores) {
           let all = scores[team];
