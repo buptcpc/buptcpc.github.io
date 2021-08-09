@@ -19,8 +19,7 @@
       "/stat.json",
       {},
       function (data) {
-        const COUNT = data.conts.length * 15 / 20;
-
+        const COUNT = Math.ceil(data.conts.length * 15 / 20);
         let scores = data.scores, arr = [];
         for (let team in scores) {
           let all = scores[team];
