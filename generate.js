@@ -71,7 +71,7 @@ function load(contest) {
     let score = Math.max(0, cnt / cnt200 * (500 - parseInt(item.rank)));
     if (hi == -1)
       hi = score;
-    score = score / hi * 100;
+    score = score * 30;// / hi * 100;
     if (contest.indexOf("hdu") != -1) {
       item.school = (item.name.split('   '))[1];
       item.name = (item.name.split('   '))[0];
