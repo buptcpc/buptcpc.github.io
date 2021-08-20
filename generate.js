@@ -72,7 +72,7 @@ function load(contest) {
     if (hi == -1)
       hi = score;
     score = score / hi * 100;
-    if (contest.indexOf("hdu") != -1) {
+    if (contest.indexOf("hd") != -1) {
       item.school = (item.name.split('   '))[1];
       item.name = (item.name.split('   '))[0];
       if (item.name in buptHDU)
