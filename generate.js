@@ -78,6 +78,21 @@ function load(contest) {
       if (item.name in buptHDU)
         item.name = buptHDU[item.name];
     }
+
+    if (contest.indexOf("cc") != -1) {
+      item.school = (item.name.split(' '))[2];
+      item.name = (item.name.split(' '))[1];
+      //if (item.name in buptHDU)
+      //  item.name = buptHDU[item.name];
+    }
+
+    if (contest.indexOf("ic") != -1) {
+      item.school = (item.name.split(' '))[0];
+      item.name = (item.name.split(' '))[1];
+      //if (item.name in buptHDU)
+      //  item.name = buptHDU[item.name];
+    }
+
     if (Object.values(buptHDU).includes(item.name)) {
       teams.add(item.name);
       teamStats[contest][item.name] = `${item.rank}/${cnt}/${score.toFixed(2)}`;
