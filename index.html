@@ -115,7 +115,7 @@
           let details = "";
           for (let c of data.conts)
             details += `<td style="padding: 10px;">${data.teamStats[c][arr[i].name] || "-"}</td>`;
-          attr += `<tr style="padding: 10px;"><td style="padding: 10px;" >${parseInt(i) + 1}</td><td>${arr[i].name}<span style="display:block;font-size:10px;color:grey">${member[arr[i].name]}</span></td><td>${arr[i].score.toFixed(2)}</td>${details}</tr>`;
+          attr += `<tr style="padding: 10px;"><td style="padding: 10px;" >${parseInt(i) + 1}</td><td>${arr[i].name}</td><td>${arr[i].score.toFixed(2)}</td>${details}</tr>`;
         }
 
         console.log(attr);
