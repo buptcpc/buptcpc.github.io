@@ -3844,6 +3844,36 @@
     }
   },
   {
+    "name": "北京邮电大学 needone",
+    "rank": 120,
+    "detail": {
+      "B": {
+        "time": 268,
+        "tries": 2
+      },
+      "H": {
+        "time": 34,
+        "tries": 0
+      },
+      "I": {
+        "time": 295,
+        "tries": 0
+      },
+      "K": {
+        "time": 114,
+        "tries": 2
+      },
+      "L": {
+        "time": 275,
+        "tries": 2
+      },
+      "M": {
+        "time": 220,
+        "tries": 3
+      }
+    }
+  },
+  {
     "name": "华中科技大学 Maho ACMer Madoka Magika",
     "rank": 121,
     "detail": {
