@@ -40,25 +40,28 @@ function load(contest) {
 
 
   const buptHDU = {
-    "team0436": "0xCCCCCCCC",
-    "team0421": "Harmony",
-    "team0438": "asdf2",
-    "team0422": "balloonless",
-    "team0439": "NMLPC",
-    "team0432": "热爱105种算法的你",
-    "team0433": "不死吃了",
-    "team0434": "needone",
-    "team0423": "寄！",
-    "team0424": "我与肚肚势不两立",
-    "team0440": "沙河软件园",
-    "team0425": "Burn_Horse",
-    "team0426": "莱鸡",
-    "team0427": "team-1",
-    "team0435": "FPE",
-    "team0428": "三只猫猫一锅汤",
-    "team0429": "三只蒟蒻_threekonjaks",
-    "team0430": "混到极致便是C",
-    "team0437": "无main之王"
+    "team0002": "热爱106种算法的你",
+    "team0003": "TO_BE_CONTINUE_",
+    "team0004": "三只蒟蒻_threekonjaks",
+    "team0005": "沙河摸鱼队",
+    "team0006": "野鸡大队",
+    "team0007": "test1",
+    "team0008": "Not_responding",
+    "team0009": "一起开车",
+    "team0010": "intmian()",
+    "team0011": "MeUmy天下第一",
+    "team0012": "六目相对",
+    "team0013": "珊瑚宫心海",
+    "team0014": "Triple",
+    "team0015": "test2",
+    "team0016": "test3",
+    "team0017": "Against_the_odds",
+    "team0028": "callq_AC",
+    "team0019": "Luna_2235",
+    "team0020": "仙贝",
+    "team0021": "三个诸葛亮不如臭裨将",
+    "team0022": "REPET_AC",
+    "team0023": "void_WarmUp"
   }
   let hi = -1;
   for (let i in data) {
