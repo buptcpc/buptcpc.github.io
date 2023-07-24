@@ -61,6 +61,28 @@ function load(contest) {
     "team419": "三只蒟蒻",
     "team1051": "未命名-1",
   }
+  buptNC = {
+    "team401": "打完去超市买点东西吃",
+    "team402": "三个菜鸟_",
+    "team403": "野鸡大队",
+    "team404": "来了去了",
+    "team405": "OneHandofWarhawks",
+    "team406": "Unnamed Team",
+    "team407": "UltraCat",
+    "team408": "最佳柴郡",
+    "team409": "ReverseEnding",
+    "team410": "字节御宅族ByteOtakus",
+    "team411": "你们队得过什么奖",
+    "team412": "默认用户名",
+    "team413": "Ah对对对队",
+    "team414": "左右魔性穿梭队",
+    "team415": "再做一道就开摆",
+    "team416": "六目相对",
+    "team417": "我有起名困难症",
+    "team418": "BUPT-你说的队",
+    "team419": "三只蒟蒻_threekonjaks",
+    "team1051": "未命名-1",
+  }
   let hi = -1;
   for (let i in data) {
     let item = data[i];
@@ -109,6 +131,30 @@ function load(contest) {
           scores[item.name].push(0);
         scores[item.name].push(parseFloat(score.toFixed(2)));
         tableData.push({ "name": item.name, "type": "line", "data": scores[item.name], "markLine": { "data": [{ "type": "average", "name": "平均值" }] } });
+      }
+    }
+    else if (Object.values(buptNC).includes(item.name)) {
+      // Find the item.name in buptHDU which is the same team
+      let HDUname = "";
+      for (let key in buptNC) {
+        if (buptNC[key] == item.name) {
+          HDUname = buptHDU[key];
+        }
+      }
+      teams.add(HDUname);
+      teamStats[contest][HDUname] = `${item.rank}/${cnt}/${score.toFixed(2)}`;
+      let found = false;
+      for (let t of tableData)
+        if (t.name == HDUname) {
+          found = true;
+          scores[HDUname].push(parseFloat(score.toFixed(2)));
+        }
+      if (!found) {
+        scores[HDUname] = [];
+        for (let i = 0; i < conts.length - 1; ++i)
+          scores[HDUname].push(0);
+        scores[HDUname].push(parseFloat(score.toFixed(2)));
+        tableData.push({ "name": HDUname, "type": "line", "data": scores[HDUname], "markLine": { "data": [{ "type": "average", "name": "平均值" }] } });
       }
     }
   }
