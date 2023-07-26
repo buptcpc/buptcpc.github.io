@@ -13,11 +13,12 @@ function load(contest) {
   let data = JSON.parse(fs.readFileSync(`./contests/${contest}.json`));
   let probCount = 0;
   let acc = {}
+	let Acc2Hours = {}
   while (String.fromCharCode(probCount + 'A'.charCodeAt(0)) in data[0].detail) {
     acc[String.fromCharCode(probCount + 'A'.charCodeAt(0))] = 0;
     probCount++;
   }
-
+	console.log("总题数:",probCount);
   for (let item of data) {
     for (let prob in item.detail) {
       if (item.detail[prob].time != -1)
@@ -30,7 +31,6 @@ function load(contest) {
   for (let i in data) {
     if (i == "200")
       break;
-
     let item = data[i];
     for (let prob in item.detail) {
       if (item.detail[prob].time != -1)
@@ -38,7 +38,19 @@ function load(contest) {
     }
   }
 
+	let Max2Hours = -1;
 
+	for (let i in data) {
+		let item = data[i];
+		Acc2Hours[i] = 0;
+		for (let prob in item.detail) {
+			if(item.detail[prob].time <= 120 && item.detail[prob].time != -1)
+				Acc2Hours[i] += 1;
+		}
+		Max2Hours = Math.max(Max2Hours,Acc2Hours[i]);
+	}
+
+	console.log("2小时过题最多数：",Max2Hours);
   const buptHDU = {
     "team401": "打完去超市买点东西吃",
     "team402": "三个菜鸟",
@@ -84,6 +96,18 @@ function load(contest) {
     "team1051": "未命名-1",
   }
   let hi = -1;
+
+	for (let i in data) {
+		let item = data[i];
+		let cnt = 0;
+		for (let prob in item.detail) {
+			if (item.detail[prob].time != -1)
+				cnt += 1;
+		}
+		if(cnt >= Max2Hours) 
+			hi = Math.max(0, cnt / cnt200 * (500 - parseInt(item.rank)));
+	}
+	console.log("标准分:",hi)
   for (let i in data) {
     let item = data[i];
     let cnt = 0;
@@ -92,9 +116,7 @@ function load(contest) {
         cnt += 1;
     }
     let score = Math.max(0, cnt / cnt200 * (500 - parseInt(item.rank)));
-    if (hi == -1)
-      hi = score;
-//    score = score / hi * 100;
+    score = score / hi * 100;
     if (contest.indexOf("hd") != -1) {
       item.school = (item.name.split('   '))[1];
       item.name = (item.name.split('   '))[0];
