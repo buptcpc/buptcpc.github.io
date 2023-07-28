@@ -40,48 +40,48 @@ function load(contest) {
 
 
   const buptHDU = {
-    "team401": "´òÍêÈ¥³¬ÊĞÂòµã¶«Î÷³Ô",
-    "team402": "Èı¸ö²ËÄñ",
-    "team403": "Ò°¼¦´ó¶Ó",
-    "team404": "À´ÁËÈ¥ÁË",
-    "team405": "Ó¥Ö®Ò»ÊÖ",
-    "team406": "Î´ÎÅ¶ÓÃû",
-    "team407": "°ÂÌØÃ¨",
-    "team408": "×î¼Ñ²ñ¿¤",
-    "team409": "Äæ×ª½á¾Ö",
-    "team410": "×Ö½ÚÓùÕ¬×å",
-    "team411": "ÄãÃÇ¶ÓµÃ¹ıÊ²Ã´½±",
-    "team412": "Ä¬ÈÏÓÃ»§Ãû",
-    "team413": "°¡¶Ô¶Ô¶Ó",
-    "team414": "×óÓÒÄ§ĞÔ´©Ëó",
-    "team415": "ÔÙ×öÒ»µÀ¾Í¿ª°Ú",
-    "team416": "ÁùÄ¿Ïà¶Ô",
-    "team417": "ÎÒÓĞÆğÃûÀ§ÄÑÖ¢",
-    "team418": "ÄãËµµÄ¶Ó",
-    "team419": "ÈıÖ»ÉXÉm",
-    "team1051": "Î´ÃüÃû-1",
+    "team401": "æ‰“å®Œå»è¶…å¸‚ä¹°ç‚¹ä¸œè¥¿åƒ",
+    "team402": "ä¸‰ä¸ªèœé¸Ÿ",
+    "team403": "é‡é¸¡å¤§é˜Ÿ",
+    "team404": "æ¥äº†å»äº†",
+    "team405": "é¹°ä¹‹ä¸€æ‰‹",
+    "team406": "æœªé—»é˜Ÿå",
+    "team407": "å¥¥ç‰¹çŒ«",
+    "team408": "æœ€ä½³æŸ´éƒ¡",
+    "team409": "é€†è½¬ç»“å±€",
+    "team410": "å­—èŠ‚å¾¡å®…æ—",
+    "team411": "ä½ ä»¬é˜Ÿå¾—è¿‡ä»€ä¹ˆå¥–",
+    "team412": "é»˜è®¤ç”¨æˆ·å",
+    "team413": "å•Šå¯¹å¯¹é˜Ÿ",
+    "team414": "å·¦å³é­”æ€§ç©¿æ¢­",
+    "team415": "å†åšä¸€é“å°±å¼€æ‘†",
+    "team416": "å…­ç›®ç›¸å¯¹",
+    "team417": "æˆ‘æœ‰èµ·åå›°éš¾ç—‡",
+    "team418": "ä½ è¯´çš„é˜Ÿ",
+    "team419": "ä¸‰åªè’Ÿè’»",
+    "team1051": "æœªå‘½å-1",
   }
   buptNC = {
-    "team401": "´òÍêÈ¥³¬ÊĞÂòµã¶«Î÷³Ô",
-    "team402": "Èı¸ö²ËÄñ_",
-    "team403": "Ò°¼¦´ó¶Ó",
-    "team404": "À´ÁËÈ¥ÁË",
+    "team401": "æ‰“å®Œå»è¶…å¸‚ä¹°ç‚¹ä¸œè¥¿åƒ",
+    "team402": "ä¸‰ä¸ªèœé¸Ÿ_",
+    "team403": "é‡é¸¡å¤§é˜Ÿ",
+    "team404": "æ¥äº†å»äº†",
     "team405": "OneHandofWarhawks",
     "team406": "Unnamed Team",
     "team407": "UltraCat",
-    "team408": "×î¼Ñ²ñ¿¤",
+    "team408": "æœ€ä½³æŸ´éƒ¡",
     "team409": "ReverseEnding",
-    "team410": "×Ö½ÚÓùÕ¬×åByteOtakus",
-    "team411": "ÄãÃÇ¶ÓµÃ¹ıÊ²Ã´½±",
-    "team412": "Ä¬ÈÏÓÃ»§Ãû",
-    "team413": "Ah¶Ô¶Ô¶Ô¶Ó",
-    "team414": "×óÓÒÄ§ĞÔ´©Ëó¶Ó",
-    "team415": "ÔÙ×öÒ»µÀ¾Í¿ª°Ú",
-    "team416": "ÁùÄ¿Ïà¶Ô",
-    "team417": "ÎÒÓĞÆğÃûÀ§ÄÑÖ¢",
-    "team418": "BUPT-ÄãËµµÄ¶Ó",
-    "team419": "ÈıÖ»ÉXÉm_threekonjaks",
-    "team1051": "Î´ÃüÃû-1",
+    "team410": "å­—èŠ‚å¾¡å®…æ—ByteOtakus",
+    "team411": "ä½ ä»¬é˜Ÿå¾—è¿‡ä»€ä¹ˆå¥–",
+    "team412": "é»˜è®¤ç”¨æˆ·å",
+    "team413": "Ahå¯¹å¯¹å¯¹é˜Ÿ",
+    "team414": "å·¦å³é­”æ€§ç©¿æ¢­é˜Ÿ",
+    "team415": "å†åšä¸€é“å°±å¼€æ‘†",
+    "team416": "å…­ç›®ç›¸å¯¹",
+    "team417": "æˆ‘æœ‰èµ·åå›°éš¾ç—‡",
+    "team418": "BUPT-ä½ è¯´çš„é˜Ÿ",
+    "team419": "ä¸‰åªè’Ÿè’»_threekonjaks",
+    "team1051": "æœªå‘½å-1",
   }
   let hi = -1;
   for (let i in data) {
@@ -130,7 +130,7 @@ function load(contest) {
         for (let i = 0; i < conts.length - 1; ++i)
           scores[item.name].push(0);
         scores[item.name].push(parseFloat(score.toFixed(2)));
-        tableData.push({ "name": item.name, "type": "line", "data": scores[item.name], "markLine": { "data": [{ "type": "average", "name": "Æ½¾ùÖµ" }] } });
+        tableData.push({ "name": item.name, "type": "line", "data": scores[item.name], "markLine": { "data": [{ "type": "average", "name": "å¹³å‡å€¼" }] } });
       }
     }
     else if (Object.values(buptNC).includes(item.name)) {
@@ -154,7 +154,7 @@ function load(contest) {
         for (let i = 0; i < conts.length - 1; ++i)
           scores[HDUname].push(0);
         scores[HDUname].push(parseFloat(score.toFixed(2)));
-        tableData.push({ "name": HDUname, "type": "line", "data": scores[HDUname], "markLine": { "data": [{ "type": "average", "name": "Æ½¾ùÖµ" }] } });
+        tableData.push({ "name": HDUname, "type": "line", "data": scores[HDUname], "markLine": { "data": [{ "type": "average", "name": "å¹³å‡å€¼" }] } });
       }
     }
   }
