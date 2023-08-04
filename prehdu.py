@@ -1,5 +1,6 @@
 import json
 import pandas as pd
+import os
 
 hdu_json = []
 
@@ -19,13 +20,17 @@ def make_name(list):
     item = {"detail": detail, "name": list[1].replace(' ', '   '), "rank": list[0]}
     hdu_json.append(item)
 
-def main():
+def transfer(filename):
     global hdu_json
+    basename = os.path.basename(filename).split('.')[0]
+    hdu_json = []
     pd.set_option('display.unicode.east_asian_width', True)
-    hdu = pd.read_csv('./hdu.csv', index_col=None, encoding='utf-8')
+    hdu = pd.read_csv(filename, index_col=None, encoding='utf-8')
     hdu.apply(lambda x: make_name(x), axis=1)
-    with open('hd.json', 'w', encoding='utf8') as file:
+    with open(f'contests/{basename}.json', 'w', encoding='utf8') as file:
         json.dump(hdu_json, file, indent=4, separators=(',', ': '), ensure_ascii=False)
+    print(filename, "transfered.")
 
 if __name__ == '__main__':
-    main()
+    for i in os.listdir("hdu_csv"):
+        transfer("hdu_csv/" + i)

@@ -67,7 +67,7 @@ function load(contest) {
     "team403": "野鸡大队",
     "team404": "来了去了",
     "team405": "OneHandofWarhawks",
-    "team406": "Unnamed Team",
+    "team406": "UnnamedTeam",
     "team407": "UltraCat",
     "team408": "最佳柴郡",
     "team409": "ReverseEnding",
@@ -116,7 +116,7 @@ function load(contest) {
       //  item.name = buptHDU[item.name];
     }
 
-    if (Object.values(buptHDU).includes(item.name)) {
+    if (Object.values(buptHDU).includes(item.name)&&item.school=="北京邮电大学") {
       teams.add(item.name);
       teamStats[contest][item.name] = `${item.rank}/${cnt}/${score.toFixed(2)}`;
       let found = false;
@@ -133,7 +133,7 @@ function load(contest) {
         tableData.push({ "name": item.name, "type": "line", "data": scores[item.name], "markLine": { "data": [{ "type": "average", "name": "平均值" }] } });
       }
     }
-    else if (Object.values(buptNC).includes(item.name)) {
+    else if (Object.values(buptNC).includes(item.name)&&item.school=="北京邮电大学") {
       // Find the item.name in buptHDU which is the same team
       let HDUname = "";
       for (let key in buptNC) {
@@ -141,14 +141,17 @@ function load(contest) {
           HDUname = buptHDU[key];
         }
       }
+      // if(item.name=="UnnamedTeam") console.log(HDUname,item.rank);
       teams.add(HDUname);
       teamStats[contest][HDUname] = `${item.rank}/${cnt}/${score.toFixed(2)}`;
+      // if(item.name=="UnnamedTeam") console.log(teamStats[contest][HDUname]);
       let found = false;
       for (let t of tableData)
         if (t.name == HDUname) {
           found = true;
           scores[HDUname].push(parseFloat(score.toFixed(2)));
         }
+      // if(item.name=="UnnamedTeam") console.log(scores[HDUname],parseFloat(score.toFixed(2)));
       if (!found) {
         scores[HDUname] = [];
         for (let i = 0; i < conts.length - 1; ++i)
@@ -168,8 +171,8 @@ function load(contest) {
 let arr = fs.readdirSync('./contests');
 
 for (let i of arr) {
-  console.log(i.split('.')[0])
   load(i.split('.')[0]);
+  console.log(i.split('.')[0], " generated.")
 }
 
 fs.writeFileSync("stat.json", JSON.stringify({
