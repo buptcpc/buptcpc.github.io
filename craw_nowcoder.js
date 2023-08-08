@@ -4,8 +4,6 @@ const config = require("./config.json")
 
 let all = [], ALL = 18
 
-
-
 async function work(cid, index) {
   let ranks = {}, i = 0
   while (i < ALL) {
