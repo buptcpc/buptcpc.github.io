@@ -2,8 +2,8 @@ name: update
 
 on:
   schedule:
-    # Runs at 5:05 (17:05 UTC+8:00) every day
-    - cron: '5 5 * * *'
+    # Runs at 9:05 (17:05 UTC+8:00) every day
+    - cron: '5 9 * * *'
   workflow_dispatch:
   push:
     branches:
