@@ -54,6 +54,7 @@ jobs:
         git push
 
   deploy:
+    needs: update
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
