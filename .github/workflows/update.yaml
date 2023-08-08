@@ -1,0 +1,50 @@
+name: update
+
+on:
+  schedule:
+    # Runs at 5:05 (17:05 UTC+8:00) every day
+    - cron: '5 5 * * *'
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v2
+
+    - name: install python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.11'
+
+    - name: install nodejs
+      uses: actions/setup-node@v2
+      with:
+        node-version: '18'
+
+    - name: install dependencies
+      shell: bash
+      run: |
+        python -m pip install --upgrade pip
+        pip install requests pandas
+        npm install -g yarn
+        yarn install
+
+    - name: update contest data
+      shell: bash
+      run: |
+        bash ./main.sh ${{ secrets.HDU_USERNAME }} ${{ secrets.HDU_PASSWORD }}
+
+    - name: commit changes
+      shell: bash
+      run: |
+        git config --global user.name 'GitHub Actions'
+        git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+        git add .
+        git diff --quiet && git diff --staged --quiet || git commit -m "Update contest data"
+        git push
+      
