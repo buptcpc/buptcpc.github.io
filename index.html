@@ -133,10 +133,10 @@
             if (detail) {
               const [rank, cnt, score] = data.teamStats[c][arr[i].name].split("/")
               if (top.includes(score)) {
-                details += `<td><div class="tooltip" data-tip="第${rank}名，${cnt}题，得分，计入总分">${detail}</div></td>`;
+                details += `<td><div class="tooltip" data-tip="第${rank}名，${cnt}题，得分${score}，计入总分">${detail}</div></td>`;
                 top.splice(top.indexOf(score), 1);
               } else {
-                details += `<td style="color: #a0a0a0;"><div class="tooltip" data-tip="第${rank}名，${cnt}题，得分${score}，    未计入总分">${detail}</div></td>`;
+                details += `<td style="color: #a0a0a0;"><div class="tooltip" data-tip="第${rank}名，${cnt}题，得分${score}， 未计入总分">${detail}</div></td>`;
               }
             } else {
               details += `<td>-</td>`;
