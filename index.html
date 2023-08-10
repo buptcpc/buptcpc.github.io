@@ -5,15 +5,31 @@
   <title>暑期训练！</title>
   <script src="https://cdn.bootcdn.net/ajax/libs/echarts/5.1.2/echarts.min.js"></script>
   <script src="https://cdn.bootcdn.net/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+  <link href="https://cdn.jsdelivr.net/npm/daisyui@3.5.1/dist/full.css" rel="stylesheet" type="text/css" />
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    .table-container td:nth-child(-n+3),
+    .table-container th:nth-child(-n+3) {
+      position: sticky;
+      left: 0;
+      background: white;
+      z-index: 1;
+    }
+  </style>
 </head>
 
 <body>
-  <h1>2022 Summer Training</h1>
-  <h1>表中数据为(排名/题数/得分)</h1>
-  <table style="padding: 20px;">
-    <tbody id="ranking"></tbody>
-  </table>
-  <div id="chart" style="width: 1000px;height:1000px;"></div>
+  <div class="mx-5 my-5">
+    <h1 class="text-3xl">2022 Summer Training</h1>
+    <h1 class="text-gray-400">表中数据为(排名/题数/得分)</h1>
+    <button ></button>
+    <div class="overflow-x-auto w-full table-container">
+      <table id="table" class="table table-zebra table-pin-rows whitespace-nowrap">
+        <tbody id="ranking"></tbody>
+      </table>
+    </div>
+    <div id="chart" style="width: 1000px; height:1000px;" class="mt-10"></div>
+  </div>
   <script>
     $.get(
       "/stat.json",
@@ -104,20 +120,39 @@
           "未命名-1": "赵瑞霖,李乐杨,张智成",
         };
 
-        let attr = `<tr style="padding: 10px;"><td>rank</td><td>team</td><td>top${COUNT} avg</td>`;
-        for (let i in data.conts)
-          attr += `<td style="padding: 10px;">${data.conts[i]}</td>`;
-        attr += "</tr>";
-
+        let head = `<thead><th></th><th>team</th><th>top${COUNT} avg</td>`;
+        for (let i in data.conts) 
+          head += `<td>${data.conts[i]}</td>`;
+        head += "</thead>";
+        let attr = head
         for (let i in arr) {
           let details = "";
-          for (let c of data.conts)
-            details += `<td style="padding: 10px;">${data.teamStats[c][arr[i].name] || "-"}</td>`;
-          attr += `<tr style="padding: 10px;"><td style="padding: 10px;" >${parseInt(i) + 1}</td><td>${arr[i].name}</td><td>${arr[i].score.toFixed(2)}</td>${details}</tr>`;
+          const top = data.scores[arr[i].name].sort((a, b) => b - a).slice(0, COUNT).map(x => x.toFixed(2))
+          for (let c of data.conts) {
+            const detail = data.teamStats[c][arr[i].name]
+            if (detail) {
+              const [rank, cnt, score] = data.teamStats[c][arr[i].name].split("/")
+              if (top.includes(score)) {
+                details += `<td><div class="tooltip" data-tip="第${rank}名，${cnt}题，得分，计入总分">${detail}</div></td>`;
+                top.splice(top.indexOf(score), 1);
+              } else {
+                details += `<td style="color: #a0a0a0;"><div class="tooltip" data-tip="第${rank}名，${cnt}题，得分${score}，    未计入总分">${detail}</div></td>`;
+              }
+            } else {
+              details += `<td>-</td>`;
+            }
+          }
+          attr += `<tr class="hover"><th>${parseInt(i) + 1}</th><th><div class="tooltip" data-tip="${member[arr[i].name]}">${arr[i].name}</div></th><th>${arr[i].score.toFixed(2)}</th>${details}</tr>`;
         }
-
-        console.log(attr);
+        attr += head;
         $('#ranking').html(attr);
+        $("th").each(function () { 
+          if ($(this).index() == 1) {
+            $(this).css("left", $("th").eq(0).outerWidth(true));
+          } else if ($(this).index() == 2) {
+            $(this).css("left", $("th").eq(0).outerWidth(true) + $("th").eq(1).outerWidth(true));
+          }
+        });
       },
       "json"
     );
