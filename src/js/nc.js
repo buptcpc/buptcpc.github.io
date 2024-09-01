@@ -1,8 +1,8 @@
 const axios = require('axios');
 const fs = require('fs')
-const config = require("./config.json")
 
 let all = [], ALL = 32
+const contestDir = '../data/contests';
 
 async function work(cid, index) {
   let ranks = {}, i = 0
@@ -34,7 +34,7 @@ async function work(cid, index) {
     console.log(`nowcoder contest ${cid} is not over.`)
     return
   }
-  fs.writeFileSync(`contests/nc${index + 1}.json`, JSON.stringify(arr), err => {
+  fs.writeFileSync(`/nc${index + 1}.json`, JSON.stringify(arr), err => {
     if (err) {
       console.error(err)
     }

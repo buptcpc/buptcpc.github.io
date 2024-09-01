@@ -4,6 +4,11 @@ import os
 import urllib
 import sys
 
+with open("config.json") as f:
+    config = json.load(f)
+    hdu_contests_cids = sorted(config['hdu_contests_cids'])
+    # contest_dir = config['contest_dir']
+    origin_dir = config['origin_dir'] + '/hdu'
 
 def login(cid, username, password):
     url = f"http://acm.hdu.edu.cn/contest/login?cid=" + str(cid) + "&redirect=/contest/problems%3Fcid%3D" + str(cid)
@@ -25,20 +30,15 @@ def export_csv(cid, filename, username, password):
         print("HDU contest " + str(cid) + " is not over.")
         return
 
-    if not os.path.isdir("hdu_csv"):
-        os.mkdir("hdu_csv")
-    with open("hdu_csv/" + filename + ".csv", "wb") as f:
+    if not os.path.isdir(origin_dir):
+        os.mkdir(origin_dir)
+    with open(f'{origin_dir}/{filename}.csv', "wb") as f:
         f.write(r.content)
     print("HDU contest " + str(cid) + " exported.")
 
-def hdu_main(username, password):
-    config = open("config.json")
-    hdu_contests_cids = sorted(json.load(config)['hdu_contests_cids'])
-    config.close()
-    
+def main(username, password):
     for i in range(len(hdu_contests_cids)):
         export_csv(hdu_contests_cids[i], "hd" + str(i + 1), username, password)
 
-
 if __name__ == "__main__":
-    hdu_main(sys.argv[1], sys.argv[2])
+    main(sys.argv[1], sys.argv[2])

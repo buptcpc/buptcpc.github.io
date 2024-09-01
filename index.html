@@ -15,88 +15,164 @@
   </table>
   <div id="chart" style="width: 1000px;height:1000px;"></div>
   <script>
-    $.get(
-      "./stat.json",
-      {},
-      function (data) {
-        const COUNT = Math.ceil(data.conts.length * 16 / 20); // 2024 Spring Training - 80% of the contests
-        let scores = data.scores, arr = [];
-        for (let team in scores) {
-          let all = scores[team];
-          all.sort(function (a, b) {
-            return b - a;
-          });
-          let p = 0, q = 0;
-          for (let x of all) {
-            p += x;
-            ++q;
-            if (q == COUNT)
-              break;
-          }
-          arr.push({
-            name: team,
-            score: p / q
-          });
+    const jsonFiles = [
+        {
+            file: 'data/spring_stat.json',
+            ratio: 0.1
+        },
+        {
+            file: 'data/month_stat.json',
+            ratio: 0.05
+        },
+        {
+            file: 'data/summer_stat.json',
+            ratio: 0.85
         }
+    ];
+
+    let allData = {
+        conts: [],
+        teams: [],
+        scores: {},
+        data: [],
+        teamStats: {}
+    };
+
+    let filesProcessed = 0;
+    let arr = [];
+
+    function add(team, score){
+        for(var x in arr){
+            if(arr[x].name == team){
+                arr[x].score += score;
+                return;
+            }
+        }
+        arr.push({
+            name: team,
+            score
+        })
+    }
+
+    jsonFiles.forEach(contest => {
+        $.get(
+            contest.file,
+            {},
+            function (data) {
+                // Combine the contests
+                allData.conts = [...new Set([...allData.conts, ...data.conts])].sort(); // TODO 按时间排序
+
+                // Combine the teams
+                allData.teams = [...new Set([...allData.teams, ...data.teams])];
+
+                // Combine the scores
+                for (let team in data.scores) {
+                    if (!allData.scores[team]) {
+                        allData.scores[team] = [];
+                    }
+                    allData.scores[team] = allData.scores[team].concat(data.scores[team]);
+                }
+
+                // Combine the team stats
+                for (let contest in data.teamStats) {
+                    if (!allData.teamStats[contest]) {
+                        allData.teamStats[contest] = {};
+                    }
+                    for (let team in data.teamStats[contest]) {
+                        allData.teamStats[contest][team] = data.teamStats[contest][team];
+                    }
+                }
+
+                const COUNT = Math.ceil(data.conts.length * 0.8); // 2024 Spring Training - 80% of the contests
+                let now_scores = data.scores, arr = [];
+                for (let team in now_scores) {
+                    let all = now_scores[team];
+                    all.sort(function (a, b) {
+                        return b - a;
+                    });
+                    let sum = 0;
+                    for(var i = 0; i < COUNT; i++) {
+                        sum += all[i];
+                    }
+                    add(team, (sum / COUNT) * contest.ratio);
+                    console.log(`score of ${team} is ${sum / COUNT} in ${contest.file}`);
+                }
+                console.log(contest.file, 'processed');
+                filesProcessed++;
+
+                // Once all files are processed
+                if (filesProcessed === jsonFiles.length) {
+                    processAndDisplay(allData);
+                }
+            },
+            "json"
+        );
+    });
+
+    function processAndDisplay(data){
+        console.log(arr);
+    
         arr.sort(function (a, b) {
           return b.score - a.score;
-        });
+        }); 
         let teamsSorted = [];
         for (let i in arr)
-          teamsSorted.push(arr[i].name);
-
-        let selected = {};
-        for (let d of data.teams)
-          selected[d] = false;
-        let myChart = echarts.init(document.getElementById('chart'));
-        let option = {
-          tooltip: {
-            trigger: 'axis'
-          },
-          legend: {
-            data: teamsSorted,
-            selected: selected
-          },
-          grid: {
-            left: '3%',
-            right: '4%',
-            bottom: '3%',
-            containLabel: true
-          },
-          toolbox: {
-            feature: {
-              saveAsImage: {}
+            teamsSorted.push(arr[i].name);
+    
+        const attr = (function getForm() {
+            let selected = {};
+            for (let d of data.teams)
+                selected[d] = false;
+            let myChart = echarts.init(document.getElementById('chart'));
+            let option = {
+                tooltip: {
+                    trigger: 'axis'
+                },
+                legend: {
+                    data: teamsSorted,
+                    selected: selected
+                },
+                grid: {
+                    left: '3%',
+                    right: '4%',
+                    bottom: '3%',
+                    containLabel: true
+                },
+                toolbox: {
+                    feature: {
+                        saveAsImage: {}
+                    }
+                },
+                xAxis: {
+                    type: 'category',
+                    boundaryGap: false,
+                    data: data.conts
+                },
+                yAxis: {
+                    type: 'value'
+                },
+                series: data.data
+            };
+            myChart.setOption(option);
+    
+            let attr = `<tr style="padding: 10px;"><td>rank</td><td>team</td><td>Total Score</td>`;
+            for (let i in data.conts)
+                attr += `<td style="padding: 10px;">${data.conts[i]}</td>`;
+            attr += "</tr>";
+            
+            for (let i in arr) {
+                let details = "";
+                for (let c of data.conts)
+                    details += `<td style="padding: 10px;">${data.teamStats[c][arr[i].name] || "-"}</td>`;
+                attr += `<tr style="padding: 10px;"><td style="padding: 10px;" >${parseInt(i) + 1}</td><td>${arr[i].name}</td><td>${arr[i].score.toFixed(2)}</td>${details}</tr>`;
             }
-          },
-          xAxis: {
-            type: 'category',
-            boundaryGap: false,
-            data: data.conts
-          },
-          yAxis: {
-            type: 'value'
-          },
-          series: data.data
-        };
-        myChart.setOption(option);
-
-        let attr = `<tr style="padding: 10px;"><td>rank</td><td>team</td><td>top${COUNT} avg</td>`;
-        for (let i in data.conts)
-          attr += `<td style="padding: 10px;">${data.conts[i]}</td>`;
-        attr += "</tr>";
-
-        for (let i in arr) {
-          let details = "";
-          for (let c of data.conts)
-            details += `<td style="padding: 10px;">${data.teamStats[c][arr[i].name] || "-"}</td>`;
-          attr += `<tr style="padding: 10px;"><td style="padding: 10px;" >${parseInt(i) + 1}</td><td>${arr[i].name}</td><td>${arr[i].score.toFixed(2)}</td>${details}</tr>`;
-        }
-
+            return attr;
+        })();
+    
         console.log(attr);
         $('#ranking').html(attr);
-      },
-      "json"
-    );
+    }
+
   </script>
 
 </body>
