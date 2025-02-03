@@ -94,7 +94,7 @@
     </footer>
 </div>
 <script>
-    const contest = {"id":1126,"now":1738487772,"start":1721966400,"end":1721984400}
+    const contest = {"id":1126,"now":1738574391,"start":1721966400,"end":1721984400}
 </script>
 <script src="/assets/bootstrap-5.1.3/js/bootstrap.bundle.min.js"></script>
 <script src="/assets/js/contest.js"></script>
