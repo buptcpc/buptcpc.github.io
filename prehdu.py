@@ -17,7 +17,8 @@ def make_name(list):
         timelist = list[idx].split(':')
         time = int(timelist[0]) * 60 + int(timelist[1])
         detail[chr(ord('A') + idx - 4)] = {"time": time, "tries": tries}
-    item = {"detail": detail, "name": list[1].replace(' ', '   '), "rank": list[0]}
+    name, school = list[1].split(' ')
+    item = {"detail": detail, "name": name, "rank": list[0], "school": school}
     hdu_json.append(item)
 
 def transfer(filename):
