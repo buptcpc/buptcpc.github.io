@@ -8,17 +8,19 @@ def make_name(list):
     global hdu_json
     detail = {}
     for idx in range(4, len(list)):
-        if not isinstance(list[idx], str) or list[idx].find(':') == -1:
+        if not isinstance(list.iloc[idx], str) or list.iloc[idx].find(':') == -1:
             continue
         tries = 0
-        if list[idx].find('(') != -1:
-            tries = int(list[idx].split('(')[1].split(')')[0]) * -1
-            list[idx] = list[idx].split('(')[0]
-        timelist = list[idx].split(':')
+        tmp = list.iloc[idx]
+        if tmp.find('(') != -1:
+            tries = int(tmp.split('(')[1].split(')')[0]) * -1
+            tmp = tmp.split('(')[0]
+        timelist = tmp.split(':')
         time = int(timelist[0]) * 60 + int(timelist[1])
         detail[chr(ord('A') + idx - 4)] = {"time": time, "tries": tries}
-    name, school = list[1].split(' ')
-    item = {"detail": detail, "name": name, "rank": list[0], "school": school}
+    team, name, school = list.iloc[1].split(' ')
+    name = team + ' ' + name
+    item = {"detail": detail, "name": name, "rank": list.iloc[0], "school": school}
     hdu_json.append(item)
 
 def transfer(filename):

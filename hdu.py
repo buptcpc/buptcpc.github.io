@@ -21,9 +21,9 @@ def export_csv(cid, filename, username, password):
         return
     url = f"http://acm.hdu.edu.cn/contest/rank?cid={cid}&export=csv"
     r = requests.get(url, cookies = cookie)
-    if r.headers.get('Content-Disposition') is None or not r.headers.get('Content-Disposition').startswith("attachment"):
-        print("HDU contest " + str(cid) + " is not over.")
-        return
+    # if r.headers.get('Content-Disposition') is None or not r.headers.get('Content-Disposition').startswith("attachment"):
+    #     print("HDU contest " + str(cid) + " is not over.")
+    #     return
 
     if not os.path.isdir("hdu_csv"):
         os.mkdir("hdu_csv")
@@ -32,7 +32,7 @@ def export_csv(cid, filename, username, password):
     print("HDU contest " + str(cid) + " exported.")
 
 def hdu_main(username, password):
-    config = open("config.json")
+    config = open("config.json", encoding='utf-8')
     hdu_contests_cids = sorted(json.load(config)['hdu_contests_cids'])
     config.close()
     
