@@ -1,0 +1,1041 @@
+[
+    {
+        "rank": 1,
+        "name": "vegetable_cos(蔡禹煊)",
+        "detail": {
+            "A": {
+                "tries": 1,
+                "time": 18
+            },
+            "B": {
+                "tries": 1,
+                "time": 40
+            },
+            "C": {
+                "tries": 0,
+                "time": 106
+            },
+            "D": {
+                "tries": 0,
+                "time": 34
+            },
+            "E": {
+                "tries": 1,
+                "time": 76
+            },
+            "F": {
+                "tries": 0,
+                "time": 171
+            },
+            "I": {
+                "tries": 0,
+                "time": 145
+            },
+            "J": {
+                "tries": 1,
+                "time": 232
+            }
+        }
+    },
+    {
+        "rank": 2,
+        "name": "zhi_mu(蔡芝林)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 3
+            },
+            "B": {
+                "tries": 0,
+                "time": 19
+            },
+            "C": {
+                "tries": 3,
+                "time": 94
+            },
+            "D": {
+                "tries": 1,
+                "time": 88
+            },
+            "E": {
+                "tries": 0,
+                "time": 107
+            },
+            "F": {
+                "tries": 1,
+                "time": 179
+            },
+            "I": {
+                "tries": 1,
+                "time": 231
+            },
+            "J": {
+                "tries": 2,
+                "time": 143
+            }
+        }
+    },
+    {
+        "rank": 3,
+        "name": "mercurows(赵思涵)",
+        "detail": {
+            "A": {
+                "tries": 2,
+                "time": 12
+            },
+            "B": {
+                "tries": 4,
+                "time": 96
+            },
+            "C": {
+                "tries": 0,
+                "time": 122
+            },
+            "D": {
+                "tries": 1,
+                "time": 61
+            },
+            "E": {
+                "tries": 1,
+                "time": 31
+            },
+            "F": {
+                "tries": 0,
+                "time": 203
+            },
+            "I": {
+                "tries": 0,
+                "time": 175
+            },
+            "J": {
+                "tries": 0,
+                "time": 239
+            }
+        }
+    },
+    {
+        "rank": 4,
+        "name": "abcde777(李天阳)",
+        "detail": {
+            "A": {
+                "tries": 2,
+                "time": 18
+            },
+            "B": {
+                "tries": 1,
+                "time": 37
+            },
+            "C": {
+                "tries": 0,
+                "time": 75
+            },
+            "D": {
+                "tries": 1,
+                "time": 27
+            },
+            "E": {
+                "tries": 0,
+                "time": 10
+            },
+            "F": {
+                "tries": 3,
+                "time": 110
+            },
+            "J": {
+                "tries": 0,
+                "time": 154
+            }
+        }
+    },
+    {
+        "rank": 5,
+        "name": "muxingchengfeng(徐慕政)",
+        "detail": {
+            "A": {
+                "tries": 1,
+                "time": 7
+            },
+            "B": {
+                "tries": 0,
+                "time": 11
+            },
+            "C": {
+                "tries": 0,
+                "time": 79
+            },
+            "D": {
+                "tries": 3,
+                "time": 61
+            },
+            "E": {
+                "tries": 1,
+                "time": 26
+            },
+            "F": {
+                "tries": 0,
+                "time": 184
+            },
+            "I": {
+                "tries": 0,
+                "time": 227
+            }
+        }
+    },
+    {
+        "rank": 6,
+        "name": "TLEphage(谢楠)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 5
+            },
+            "B": {
+                "tries": 1,
+                "time": 24
+            },
+            "C": {
+                "tries": 0,
+                "time": 72
+            },
+            "D": {
+                "tries": 0,
+                "time": 31
+            },
+            "E": {
+                "tries": 0,
+                "time": 40
+            },
+            "F": {
+                "tries": 1,
+                "time": 139
+            }
+        }
+    },
+    {
+        "rank": 7,
+        "name": "microwave173(马铂凯)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 5
+            },
+            "B": {
+                "tries": 1,
+                "time": 26
+            },
+            "C": {
+                "tries": 1,
+                "time": 120
+            },
+            "D": {
+                "tries": 0,
+                "time": 36
+            },
+            "E": {
+                "tries": 0,
+                "time": 70
+            },
+            "F": {
+                "tries": 0,
+                "time": 155
+            }
+        }
+    },
+    {
+        "rank": 8,
+        "name": "AugensternQ(乔函祺)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 9
+            },
+            "B": {
+                "tries": 3,
+                "time": 99
+            },
+            "C": {
+                "tries": 0,
+                "time": 41
+            },
+            "D": {
+                "tries": 0,
+                "time": 54
+            },
+            "E": {
+                "tries": 0,
+                "time": 126
+            },
+            "I": {
+                "tries": 0,
+                "time": 188
+            }
+        }
+    },
+    {
+        "rank": 9,
+        "name": "mgrot(黄志阳)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 4
+            },
+            "B": {
+                "tries": 1,
+                "time": 64
+            },
+            "C": {
+                "tries": 0,
+                "time": 133
+            },
+            "D": {
+                "tries": 1,
+                "time": 27
+            },
+            "E": {
+                "tries": 0,
+                "time": 84
+            },
+            "F": {
+                "tries": 2,
+                "time": 186
+            }
+        }
+    },
+    {
+        "rank": 10,
+        "name": "RiziR(张鲁豫)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 6
+            },
+            "B": {
+                "tries": 0,
+                "time": 22
+            },
+            "C": {
+                "tries": 3,
+                "time": 156
+            },
+            "D": {
+                "tries": 0,
+                "time": 32
+            },
+            "E": {
+                "tries": 1,
+                "time": 72
+            },
+            "F": {
+                "tries": 1,
+                "time": 213
+            }
+        }
+    },
+    {
+        "rank": 11,
+        "name": "Subingbupt(苏泽勤)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 6
+            },
+            "B": {
+                "tries": 0,
+                "time": 57
+            },
+            "C": {
+                "tries": 0,
+                "time": 150
+            },
+            "D": {
+                "tries": 0,
+                "time": 29
+            },
+            "E": {
+                "tries": 0,
+                "time": 97
+            },
+            "F": {
+                "tries": 3,
+                "time": 218
+            }
+        }
+    },
+    {
+        "rank": 12,
+        "name": "Edge_lr(梁浩然)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 6
+            },
+            "B": {
+                "tries": 3,
+                "time": 63
+            },
+            "C": {
+                "tries": 1,
+                "time": 178
+            },
+            "D": {
+                "tries": 0,
+                "time": 26
+            },
+            "E": {
+                "tries": 0,
+                "time": 136
+            },
+            "F": {
+                "tries": 4,
+                "time": 227
+            }
+        }
+    },
+    {
+        "rank": 13,
+        "name": "neetman(秦维斌)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 4
+            },
+            "B": {
+                "tries": 1,
+                "time": 34
+            },
+            "C": {
+                "tries": 0,
+                "time": 86
+            },
+            "D": {
+                "tries": 0,
+                "time": 40
+            },
+            "E": {
+                "tries": 0,
+                "time": 45
+            }
+        }
+    },
+    {
+        "rank": 14,
+        "name": "once_upon(徐嘉晨)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 3
+            },
+            "B": {
+                "tries": 4,
+                "time": 64
+            },
+            "C": {
+                "tries": 0,
+                "time": 85
+            },
+            "D": {
+                "tries": 0,
+                "time": 18
+            },
+            "E": {
+                "tries": 0,
+                "time": 10
+            }
+        }
+    },
+    {
+        "rank": 15,
+        "name": "sfiisfi(冯国晟)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 12
+            },
+            "B": {
+                "tries": 2,
+                "time": 34
+            },
+            "C": {
+                "tries": 1,
+                "time": 106
+            },
+            "D": {
+                "tries": 0,
+                "time": 18
+            },
+            "E": {
+                "tries": 0,
+                "time": 54
+            }
+        }
+    },
+    {
+        "rank": 16,
+        "name": "mzyx(马云霄)",
+        "detail": {
+            "A": {
+                "tries": 2,
+                "time": 6
+            },
+            "B": {
+                "tries": 0,
+                "time": 70
+            },
+            "C": {
+                "tries": 0,
+                "time": 50
+            },
+            "D": {
+                "tries": 0,
+                "time": 18
+            },
+            "E": {
+                "tries": 0,
+                "time": 164
+            }
+        }
+    },
+    {
+        "rank": 17,
+        "name": "sunchaser(李子俊)",
+        "detail": {
+            "A": {
+                "tries": 1,
+                "time": 12
+            },
+            "B": {
+                "tries": 0,
+                "time": 41
+            },
+            "C": {
+                "tries": 0,
+                "time": 148
+            },
+            "D": {
+                "tries": 0,
+                "time": 26
+            },
+            "E": {
+                "tries": 1,
+                "time": 111
+            }
+        }
+    },
+    {
+        "rank": 18,
+        "name": "earthquake(林米乐)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 6
+            },
+            "B": {
+                "tries": 4,
+                "time": 52
+            },
+            "C": {
+                "tries": 0,
+                "time": 114
+            },
+            "D": {
+                "tries": 0,
+                "time": 14
+            },
+            "E": {
+                "tries": 2,
+                "time": 78
+            }
+        }
+    },
+    {
+        "rank": 19,
+        "name": "sky10w(金旭一)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 6
+            },
+            "B": {
+                "tries": 1,
+                "time": 15
+            },
+            "C": {
+                "tries": 1,
+                "time": 75
+            },
+            "D": {
+                "tries": 0,
+                "time": 23
+            },
+            "E": {
+                "tries": 2,
+                "time": 191
+            }
+        }
+    },
+    {
+        "rank": 20,
+        "name": "Evan2024(侯尔为)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 5
+            },
+            "B": {
+                "tries": 1,
+                "time": 84
+            },
+            "C": {
+                "tries": 0,
+                "time": 150
+            },
+            "D": {
+                "tries": 0,
+                "time": 67
+            },
+            "J": {
+                "tries": 0,
+                "time": 108
+            }
+        }
+    },
+    {
+        "rank": 21,
+        "name": "Siyuan_Li(李思远)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 36
+            },
+            "B": {
+                "tries": 0,
+                "time": 82
+            },
+            "C": {
+                "tries": 0,
+                "time": 111
+            },
+            "D": {
+                "tries": 2,
+                "time": 72
+            },
+            "E": {
+                "tries": 0,
+                "time": 123
+            }
+        }
+    },
+    {
+        "rank": 22,
+        "name": "zhuge0(蒙忠格)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 16
+            },
+            "B": {
+                "tries": 1,
+                "time": 77
+            },
+            "C": {
+                "tries": 0,
+                "time": 183
+            },
+            "D": {
+                "tries": 0,
+                "time": 69
+            },
+            "E": {
+                "tries": 1,
+                "time": 133
+            }
+        }
+    },
+    {
+        "rank": 23,
+        "name": "poetryfactory(单一凡)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 6
+            },
+            "B": {
+                "tries": 2,
+                "time": 60
+            },
+            "C": {
+                "tries": 2,
+                "time": 117
+            },
+            "D": {
+                "tries": 0,
+                "time": 41
+            },
+            "E": {
+                "tries": 3,
+                "time": 176
+            }
+        }
+    },
+    {
+        "rank": 24,
+        "name": "Orange_Ice(安奕轩)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 10
+            },
+            "B": {
+                "tries": 1,
+                "time": 83
+            },
+            "C": {
+                "tries": 1,
+                "time": 193
+            },
+            "D": {
+                "tries": 0,
+                "time": 50
+            },
+            "E": {
+                "tries": 1,
+                "time": 151
+            }
+        }
+    },
+    {
+        "rank": 25,
+        "name": "KEBrantily(李鹏烁)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 11
+            },
+            "B": {
+                "tries": 7,
+                "time": 191
+            },
+            "C": {
+                "tries": 0,
+                "time": 219
+            },
+            "D": {
+                "tries": 0,
+                "time": 28
+            },
+            "E": {
+                "tries": 0,
+                "time": 44
+            }
+        }
+    },
+    {
+        "rank": 26,
+        "name": "zsxm(刘奕安)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 5
+            },
+            "B": {
+                "tries": 2,
+                "time": 94
+            },
+            "C": {
+                "tries": 0,
+                "time": 132
+            },
+            "D": {
+                "tries": 4,
+                "time": 81
+            },
+            "E": {
+                "tries": 0,
+                "time": 224
+            }
+        }
+    },
+    {
+        "rank": 27,
+        "name": "Fifth_Axiom(周弋然)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 84
+            },
+            "B": {
+                "tries": 0,
+                "time": 121
+            },
+            "C": {
+                "tries": 0,
+                "time": 177
+            },
+            "D": {
+                "tries": 0,
+                "time": 115
+            },
+            "E": {
+                "tries": 1,
+                "time": 221
+            }
+        }
+    },
+    {
+        "rank": 28,
+        "name": "Wuwhile(吴宗阳)",
+        "detail": {
+            "A": {
+                "tries": 2,
+                "time": 38
+            },
+            "B": {
+                "tries": 3,
+                "time": 121
+            },
+            "C": {
+                "tries": 0,
+                "time": 227
+            },
+            "D": {
+                "tries": 0,
+                "time": 58
+            },
+            "E": {
+                "tries": 1,
+                "time": 202
+            }
+        }
+    },
+    {
+        "rank": 29,
+        "name": "Egous(马廷良)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 5
+            },
+            "B": {
+                "tries": 1,
+                "time": 35
+            },
+            "C": {
+                "tries": 0,
+                "time": 168
+            },
+            "D": {
+                "tries": 1,
+                "time": 19
+            }
+        }
+    },
+    {
+        "rank": 30,
+        "name": "swlight(施岩焜)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 12
+            },
+            "B": {
+                "tries": 0,
+                "time": 67
+            },
+            "C": {
+                "tries": 0,
+                "time": 147
+            },
+            "D": {
+                "tries": 0,
+                "time": 46
+            }
+        }
+    },
+    {
+        "rank": 31,
+        "name": "imarubbish(吴宇锴)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 18
+            },
+            "B": {
+                "tries": 2,
+                "time": 42
+            },
+            "C": {
+                "tries": 2,
+                "time": 164
+            },
+            "D": {
+                "tries": 0,
+                "time": 10
+            }
+        }
+    },
+    {
+        "rank": 32,
+        "name": "ruoye123456(王垚烨)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 21
+            },
+            "B": {
+                "tries": 3,
+                "time": 94
+            },
+            "D": {
+                "tries": 0,
+                "time": 49
+            },
+            "E": {
+                "tries": 0,
+                "time": 137
+            }
+        }
+    },
+    {
+        "rank": 33,
+        "name": "CaiPL315(蔡佩霖)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 6
+            },
+            "B": {
+                "tries": 6,
+                "time": 52
+            },
+            "C": {
+                "tries": 2,
+                "time": 155
+            },
+            "D": {
+                "tries": 0,
+                "time": 16
+            }
+        }
+    },
+    {
+        "rank": 34,
+        "name": "wcy0131(王晨阳)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 10
+            },
+            "B": {
+                "tries": 2,
+                "time": 86
+            },
+            "D": {
+                "tries": 0,
+                "time": 24
+            },
+            "E": {
+                "tries": 3,
+                "time": 175
+            }
+        }
+    },
+    {
+        "rank": 35,
+        "name": "wy666(吴优)",
+        "detail": {
+            "A": {
+                "tries": 4,
+                "time": 33
+            },
+            "B": {
+                "tries": 4,
+                "time": 72
+            },
+            "D": {
+                "tries": 0,
+                "time": 39
+            },
+            "E": {
+                "tries": 2,
+                "time": 236
+            }
+        }
+    },
+    {
+        "rank": 36,
+        "name": "JSTBR(姜博然)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 11
+            },
+            "B": {
+                "tries": 4,
+                "time": 101
+            },
+            "D": {
+                "tries": 1,
+                "time": 43
+            }
+        }
+    },
+    {
+        "rank": 37,
+        "name": "Gaoeight(高允泽)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 29
+            },
+            "B": {
+                "tries": 2,
+                "time": 93
+            },
+            "D": {
+                "tries": 1,
+                "time": 106
+            }
+        }
+    },
+    {
+        "rank": 38,
+        "name": "Sin_qwq(周一鸣)",
+        "detail": {
+            "A": {
+                "tries": 1,
+                "time": 66
+            },
+            "B": {
+                "tries": 3,
+                "time": 180
+            },
+            "D": {
+                "tries": 0,
+                "time": 89
+            }
+        }
+    },
+    {
+        "rank": 39,
+        "name": "YYY_KM(姚凯明)",
+        "detail": {
+            "A": {
+                "tries": 0,
+                "time": 26
+            },
+            "B": {
+                "tries": 12,
+                "time": 219
+            },
+            "D": {
+                "tries": 1,
+                "time": 95
+            }
+        }
+    },
+    {
+        "rank": 40,
+        "name": "WeMissAcSoMuch(马云霄 侯尔为 刘奕安)",
+        "detail": {}
+    }
+]
