@@ -10,13 +10,15 @@ def login(cid, username, password):
     url = f"http://acm.hdu.edu.cn/contest/login?cid=" + str(cid) + "&redirect=/contest/problems%3Fcid%3D" + str(cid)
 
     for i in range(3):
-        r = requests.post(url, data = urllib.parse.urlencode({'username': username, 'password': password}),headers={
-            "content-type": "application/x-www-form-urlencoded",
-        }, allow_redirects=False)
-        
-        if r.status_code == 302:
-            return r.cookies
-        time.sleep(1)
+        try:
+            r = requests.post(url, data = urllib.parse.urlencode({'username': username, 'password': password}),headers={
+                "content-type": "application/x-www-form-urlencoded",
+            }, allow_redirects=False)
+            
+            if r.status_code == 302:
+                return r.cookies
+        except:
+            time.sleep(1)
     print("HDU contest " + str(cid) + " login failed.")
     return None
 
