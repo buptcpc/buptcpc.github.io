@@ -3,6 +3,7 @@ import json
 import os
 import urllib
 import sys
+import time
 
 
 def login(cid, username, password):
@@ -38,6 +39,7 @@ def hdu_main(username, password):
     
     for i in range(len(hdu_contests_cids)):
         export_csv(hdu_contests_cids[i], "hd" + str(i + 1), username, password)
+        time.sleep(2)
 
 
 if __name__ == "__main__":
