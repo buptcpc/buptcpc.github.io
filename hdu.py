@@ -21,9 +21,9 @@ def export_csv(cid, filename, username, password):
         return
     url = f"http://acm.hdu.edu.cn/contest/rank?cid={cid}&export=csv"
     r = requests.get(url, cookies = cookie)
-    # if r.headers.get('Content-Disposition') is None or not r.headers.get('Content-Disposition').startswith("attachment"):
-    #     print("HDU contest " + str(cid) + " is not over.")
-    #     return
+    if r.headers.get('Content-Disposition') is None or not r.headers.get('Content-Disposition').startswith("attachment"):
+        print("HDU contest " + str(cid) + " is not over.")
+        return
 
     if not os.path.isdir("hdu_csv"):
         os.mkdir("hdu_csv")
