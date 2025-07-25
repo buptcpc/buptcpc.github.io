@@ -1,521 +1,184 @@
 {
     "school": "北京邮电大学",
-    "need_all_team": false,
-    "hdu_contests_cids": [1150, 1151, 1152, 1153, 1154, 1155, 1156, 1157, 1158, 1159],
+    "need_all_team": true,
+    "hdu_contests_cids": [1172, 1173, 1174, 1175, 1176, 1177, 1178, 1179, 1180, 1181],
     "nowcoder_contests" : "2025牛客暑期多校训练营",
-    "teams": [
-        {
-            "name": "安奕轩",
-            "alias": [
-                "team659"
-            ],
-            "people": [
-                "安奕轩"
-            ]
-        },
-        {
-            "name": "蔡佩霖",
-            "alias": [
-                "team2252"
-            ],
-            "people": [
-                "蔡佩霖"
-            ]
-        },
-        {
-            "name": "蔡禹煊",
-            "alias": [
-                "team2253"
-            ],
-            "people": [
-                "蔡禹煊"
-            ]
-        },
-        {
-            "name": "蔡芝林",
-            "alias": [
-                "team2254"
-            ],
-            "people": [
-                "蔡芝林"
-            ]
-        },
-        {
-            "name": "单一凡",
-            "alias": [
-                "team896"
-            ],
-            "people": [
-                "单一凡"
-            ]
-        },
-        {
-            "name": "冯国晟",
-            "alias": [
-                "team2255"
-            ],
-            "people": [
-                "冯国晟"
-            ]
-        },
-        {
-            "name": "高允泽",
-            "alias": [
-                "team1838"
-            ],
-            "people": [
-                "高允泽"
-            ]
-        },
-        {
-            "name": "侯尔为",
-            "alias": [
-                "team1769"
-            ],
-            "people": [
-                "侯尔为"
-            ]
-        },
-        {
-            "name": "黄志阳",
-            "alias": [
-                "team2256"
-            ],
-            "people": [
-                "黄志阳"
-            ]
-        },
-        {
-            "name": "姜博然",
-            "alias": [
-                "team2257"
-            ],
-            "people": [
-                "姜博然"
-            ]
-        },
-        {
-            "name": "金旭一",
-            "alias": [
-                "team579"
-            ],
-            "people": [
-                "金旭一"
-            ]
-        },
-        {
-            "name": "李鹏烁",
-            "alias": [
-                "team2258"
-            ],
-            "people": [
-                "李鹏烁"
-            ]
-        },
-        {
-            "name": "李思远",
-            "alias": [
-                "team2259"
-            ],
-            "people": [
-                "李思远"
-            ]
-        },
-        {
-            "name": "李天阳",
-            "alias": [
-                "team170"
-            ],
-            "people": [
-                "李天阳"
-            ]
-        },
-        {
-            "name": "李子俊",
-            "alias": [
-                "team2373"
-            ],
-            "people": [
-                "李子俊"
-            ]
-        },
-        {
-            "name": "梁浩然",
-            "alias": [
-                "team2261"
-            ],
-            "people": [
-                "梁浩然"
-            ]
-        },
-        {
-            "name": "林米乐",
-            "alias": [
-                "team2262"
-            ],
-            "people": [
-                "林米乐"
-            ]
-        },
-        {
-            "name": "刘奕安",
-            "alias": [
-                "team2368"
-            ],
-            "people": [
-                "刘奕安"
-            ]
-        },
-        {
-            "name": "马铂凯",
-            "alias": [
-                "team2260"
-            ],
-            "people": [
-                "马铂凯"
-            ]
-        },
-        {
-            "name": "马廷良",
-            "alias": [
-                "team173"
-            ],
-            "people": [
-                "马廷良"
-            ]
-        },
-        {
-            "name": "马云霄",
-            "alias": [
-                "team2263"
-            ],
-            "people": [
-                "马云霄"
-            ]
-        },
-        {
-            "name": "蒙忠格",
-            "alias": [
-                "team172"
-            ],
-            "people": [
-                "蒙忠格"
-            ]
-        },
-        {
-            "name": "乔函祺",
-            "alias": [
-                "team898"
-            ],
-            "people": [
-                "乔函祺"
-            ]
-        },
-        {
-            "name": "秦维斌",
-            "alias": [
-                "team1899"
-            ],
-            "people": [
-                "秦维斌"
-            ]
-        },
-        {
-            "name": "施岩焜",
-            "alias": [
-                "team2264"
-            ],
-            "people": [
-                "施岩焜"
-            ]
-        },
-        {
-            "name": "苏泽勤",
-            "alias": [
-                "team2265"
-            ],
-            "people": [
-                "苏泽勤"
-            ]
-        },
-        {
-            "name": "王晨阳",
-            "alias": [
-                "team2266"
-            ],
-            "people": [
-                "王晨阳"
-            ]
-        },
-        {
-            "name": "王昰妍",
-            "alias": [
-                "team2267"
-            ],
-            "people": [
-                "王昰妍"
-            ]
-        },
-        {
-            "name": "王垚烨",
-            "alias": [
-                "team175"
-            ],
-            "people": [
-                "王垚烨"
-            ]
-        },
-        {
-            "name": "吴优",
-            "alias": [
-                "team568"
-            ],
-            "people": [
-                "吴优"
-            ]
-        },
-        {
-            "name": "吴宇锴",
-            "alias": [
-                "team1836"
-            ],
-            "people": [
-                "吴宇锴"
-            ]
-        },
-        {
-            "name": "谢楠",
-            "alias": [
-                "team2268"
-            ],
-            "people": [
-                "谢楠"
-            ]
-        },
-        {
-            "name": "徐嘉晨",
-            "alias": [
-                "team2269"
-            ],
-            "people": [
-                "徐嘉晨"
-            ]
-        },
-        {
-            "name": "徐慕政",
-            "alias": [
-                "team2270"
-            ],
-            "people": [
-                "徐慕政"
-            ]
-        },
-        {
-            "name": "姚凯明",
-            "alias": [
-                "team2271"
-            ],
-            "people": [
-                "姚凯明"
-            ]
-        },
-        {
-            "name": "张鲁豫",
-            "alias": [
-                "team2272"
-            ],
-            "people": [
-                "张鲁豫"
-            ]
-        },
-        {
-            "name": "赵思涵",
-            "alias": [
-                "team2273"
-            ],
-            "people": [
-                "赵思涵"
-            ]
-        },
-        {
-            "name": "周一鸣",
-            "alias": [
-                "team2367"
-            ],
-            "people": [
-                "周一鸣"
-            ]
-        },
-        {
-            "name": "周弋然",
-            "alias": [
-                "team2274"
-            ],
-            "people": [
-                "周弋然"
-            ]
-        },
-        {
-            "name": "吴宗阳",
-            "alias": [
-                "team2185"
-            ],
-            "people": [
-                "吴宗阳"
-            ]
-        },
-        {
-            "name": "安澍",
-            "alias": [
-                "team2275"
-            ],
-            "people": [
-                "安澍"
-            ]
-        },
-        {
-            "name": "冯仁宇",
-            "alias": [
-                "team2007"
-            ],
-            "people": [
-                "冯仁宇"
-            ]
-        },
-        {
-            "name": "吴显熠",
-            "alias": [
-                "team2276"
-            ],
-            "people": [
-                "吴显熠"
-            ]
-        },
-        {
-            "name": "吴语乐天",
-            "alias": [
-                "team1959"
-            ],
-            "people": [
-                "吴语乐天"
-            ]
-        },
-        {
-            "name": "雷童",
-            "alias": [
-                "team853"
-            ],
-            "people": [
-                "雷童"
-            ]
-        },
-        {
-            "name": "毕皓天",
-            "alias": [
-                "team2049"
-            ],
-            "people": [
-                "毕皓天"
-            ]
-        },
-        {
-            "name": "陈启元",
-            "alias": [
-                "team2277"
-            ],
-            "people": [
-                "陈启元"
-            ]
-        },
-        {
-            "name": "蔡亦翔",
-            "alias": [
-                "team2278"
-            ],
-            "people": [
-                "蔡亦翔"
-            ]
-        },
-        {
-            "name": "唐士淼",
-            "alias": [
-                "team2279"
-            ],
-            "people": [
-                "唐士淼"
-            ]
-        },
-        {
-            "name": "谭斯允",
-            "alias": [
-                "team2280"
-            ],
-            "people": [
-                "谭斯允"
-            ]
-        },
-        {
-            "name": "刘永琰",
-            "alias": [
-                "team2281"
-            ],
-            "people": [
-                "刘永琰"
-            ]
-        },
-        {
-            "name": "詹笙平",
-            "alias": [
-                "team2282"
-            ],
-            "people": [
-                "詹笙平"
-            ]
-        },
-        {
-            "name": "李健",
-            "alias": [
-                "team2283"
-            ],
-            "people": [
-                "李健"
-            ]
-        },
-        {
-            "name": "吴俞彤",
-            "alias": [
-                "team2284"
-            ],
-            "people": [
-                "吴俞彤"
-            ]
-        },
-        {
-            "name": "张哲源",
-            "alias": [
-                "team2285"
-            ],
-            "people": [
-                "张哲源"
-            ]
-        },
-        {
-            "name": "李宇涵",
-            "alias": [
-                "team2286"
-            ],
-            "people": [
-                "李宇涵"
-            ]
-        },
-        {
-            "name": "丁培钊",
-            "alias": [
-                "team2287"
-            ],
-            "people": [
-                "丁培钊"
-            ]
-        }
-    ]
+  "teams": [
+    {
+      "name": "邮男之旅",
+      "alias": [
+        "Here we go!"
+      ],
+      "people": [
+        "王星妍",
+        "蔡禹煊",
+        "冯仁宇"
+      ]
+    },
+    {
+      "name": "LAA is ALL",
+      "alias": [
+        "LAA_is_ALL"
+      ],
+      "people": [
+        "林米乐",
+        "安奕轩",
+        "安莉"
+      ]
+    },
+    {
+      "name": "金牌厨师",
+      "alias": [
+        "Gold Chef"
+      ],
+      "people": [
+        "乔函棋",
+        "李思远",
+        "马铭凯"
+      ]
+    },
+    {
+      "name": "我太想进步了",
+      "alias": [
+        "we want to win"
+      ],
+      "people": [
+        "蔡佩霖",
+        "黄志阳",
+        "徐嘉晨"
+      ]
+    },
+    {
+      "name": "太空漫游999ms",
+      "alias": [
+        "LuckySException"
+      ],
+      "people": [
+        "马云青",
+        "侯尔为",
+        "刘奕安"
+      ]
+    },
+    {
+      "name": "天绫绫地宁宁",
+      "alias": [
+        "天绫绫地宁宁"
+      ],
+      "people": [
+        "秦维诚",
+        "谢楠",
+        "徐崇政"
+      ]
+    },
+    {
+      "name": "以上队伍通过图灵测试",
+      "alias": [
+        "Human Baseline"
+      ],
+      "people": [
+        "吴宇谦",
+        "施岩琨",
+        "李子俊"
+      ]
+    },
+    {
+      "name": "吃堡饱队",
+      "alias": [
+        "Humgry"
+      ],
+      "people": [
+        "金旭一",
+        "单一凡",
+        "吴优"
+      ]
+    },
+    {
+      "name": "注意力涣散导致的",
+      "alias": [
+        "Attention is all you need"
+      ],
+      "people": [
+        "梁浩然",
+        "马戈然",
+        "王晨阳"
+      ]
+    },
+    {
+      "name": "RE冒号0",
+      "alias": [
+        "RE:0"
+      ],
+      "people": [
+        "马廷良",
+        "吴宗阳",
+        "周一鸣"
+      ]
+    },
+    {
+      "name": "逐月之城",
+      "alias": [
+        "LagQualProject"
+      ],
+      "people": [
+        "雷童",
+        "吴语乐天",
+        "毕皓天"
+      ]
+    },
+    {
+      "name": "我不道啊",
+      "alias": [
+        "I do know"
+      ],
+      "people": [
+        "陈启元",
+        "唐士添",
+        "刘永琰"
+      ]
+    },
+    {
+      "name": "三只企鹅",
+      "alias": [
+        "三只企鹅1"
+      ],
+      "people": [
+        "吴前彬",
+        "丁培利",
+        "张哲源"
+      ]
+    },
+    {
+      "name": "MC启动",
+      "alias": [
+        "Launching Minecraft"
+      ],
+      "people": [
+        "潘斯允",
+        "姜博安",
+        "李博"
+      ]
+    },
+    {
+      "name": "此队伍名由AI生成",
+      "alias": [
+        "(AI generated)"
+      ],
+      "people": [
+        "蔡艺林",
+        "张鲁豫",
+        "赵思涵"
+      ]
+    },
+    {
+      "name": "Synthesis",
+      "alias": [
+        "Synthesis"
+      ],
+      "people": [
+        "吴显熠",
+        "詹笔平",
+        "李天阳"
+      ]
+    }
+  ]
 }
