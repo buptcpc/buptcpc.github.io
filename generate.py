@@ -101,6 +101,7 @@ def get_contests_info():
     config_teams = config['teams']
     school_name = config['school']
     need_all_team = config.get('need_all_team', True)
+    maximum_rank = config.get('maximum_rank', -1)
     
     contest_files, contest_names = [], []
     for f in contests_dir.glob('*.json'):
@@ -116,9 +117,9 @@ def get_contests_info():
     contest_names.sort(key = lambda x:
         (x[:-2], int(x[-2:])) if x[-2:].isdigit() else (x[:-1], int(x[-1:]))
     )
-    return config_teams, contest_names, result
+    return config_teams, contest_names, result, maximum_rank
 
-def generate_stat_json(teams_dict, contests_names, data):
+def generate_stat_json(teams_dict, contests_names, data, maximum_rank):
     teams = []
     for team in teams_dict:
         teams.append(team['name'])
@@ -126,6 +127,8 @@ def generate_stat_json(teams_dict, contests_names, data):
     contest_scores_map = {}
     for contest_name in contests_names:
         contest_data, max_problem_solved, total_teams = data.get(contest_name, [{}, 0, 0])
+        if maximum_rank != -1:
+            total_teams = min(total_teams, maximum_rank)
         contest_scores_map[contest_name] = get_contest_score(contest_name, contest_data, max_problem_solved, total_teams)
 
     # 生成每个队伍的分数列表
@@ -211,8 +214,8 @@ def get_total_score(contest_name, scores):
     return round(sum(sorted_scores[:need_contests_num]) / need_contests_num, 2)
 
 def main():
-    teams, contest_names, data = get_contests_info()
-    result = generate_stat_json(teams, contest_names, data)
+    teams, contest_names, data, maximum_rank = get_contests_info()
+    result = generate_stat_json(teams, contest_names, data, maximum_rank)
     
     # 写入JSON文件
     with open('stat.json', 'w', encoding='utf-8') as f:
