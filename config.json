@@ -2,7 +2,7 @@
     "school": "北京邮电大学",
     "need_all_team": true,
     "maximum_rank": 500,
-    "hdu_contests_cids": [1172, 1173, 1174, 1175, 1176, 1177, 1178, 1179, 1180, 1181],
+    "hdu_contests_cids": [1172, 1173, 1175, 1176, 1177, 1178, 1179, 1180, 1181],
     "nowcoder_contests" : "2025牛客暑期多校训练营",
   "teams": [
     {
