@@ -6,42 +6,46 @@
     "nowcoder_contests" : "2025牛客暑期多校训练营",
   "teams": [
     {
-      "name": "邮男之旅",
+      "name": "邮男之旅（王昰妍、蔡禹煊、冯仁宇）",
       "alias": [
-        "Here we go!"
+        "Here we go!",
+        "邮男之旅"
       ],
       "people": [
-        "王星妍",
+        "王昰妍",
         "蔡禹煊",
         "冯仁宇"
       ]
     },
     {
-      "name": "LAA is ALL",
+      "name": "LAA is ALL（林米乐、安奕轩、安澍）",
       "alias": [
-        "LAA_is_ALL"
+        "LAA_is_ALL",
+        "LAA is ALL"
       ],
       "people": [
         "林米乐",
         "安奕轩",
-        "安莉"
+        "安澍"
       ]
     },
     {
-      "name": "金牌厨师",
+      "name": "金牌厨师（乔函祺、李思远、马铂凯）",
       "alias": [
-        "Gold Chef"
+        "Gold Chef",
+        "金牌厨师"
       ],
       "people": [
-        "乔函棋",
+        "乔函祺",
         "李思远",
-        "马铭凯"
+        "马铂凯"
       ]
     },
     {
-      "name": "我太想进步了",
+      "name": "我太想进步了（蔡佩霖、黄志阳、徐嘉晨）",
       "alias": [
-        "we want to win"
+        "we want to win",
+        "我太想进步了"
       ],
       "people": [
         "蔡佩霖",
@@ -50,42 +54,46 @@
       ]
     },
     {
-      "name": "太空漫游999ms",
+      "name": "太空漫游999ms（马云霄、侯尔为、刘奕安）",
       "alias": [
-        "LuckySException"
+        "LuckySException",
+        "太空漫游999ms"
       ],
       "people": [
-        "马云青",
+        "马云霄",
         "侯尔为",
         "刘奕安"
       ]
     },
     {
-      "name": "天绫绫地宁宁",
+      "name": "天绫绫地宁宁（秦维斌、谢楠、徐慕政）",
       "alias": [
+        "天绫绫地宁宁",
         "天绫绫地宁宁"
       ],
       "people": [
-        "秦维诚",
+        "秦维斌",
         "谢楠",
-        "徐崇政"
+        "徐慕政"
       ]
     },
     {
-      "name": "以上队伍通过图灵测试",
+      "name": "以上队伍通过图灵测试（吴宇锴、施岩焜、李子俊）",
       "alias": [
-        "Human Baseline"
+        "Human Baseline",
+        "以上队伍通过图灵测试"
       ],
       "people": [
-        "吴宇谦",
-        "施岩琨",
+        "吴宇锴",
+        "施岩焜",
         "李子俊"
       ]
     },
     {
-      "name": "吃堡饱队",
+      "name": "吃堡饱队（金旭一、单一凡、吴优）",
       "alias": [
-        "Humgry"
+        "Humgry",
+        "吃堡饱队"
       ],
       "people": [
         "金旭一",
@@ -94,20 +102,22 @@
       ]
     },
     {
-      "name": "注意力涣散导致的",
+      "name": "注意力涣散导致的（梁浩然、周弋然、王晨阳）",
       "alias": [
-        "Attention is all you need"
+        "Attention is all you need",
+        "注意力涣散导致的"
       ],
       "people": [
         "梁浩然",
-        "马戈然",
+        "周弋然",
         "王晨阳"
       ]
     },
     {
-      "name": "RE冒号0",
+      "name": "RE冒号0（马廷良、吴宗阳、周一鸣）",
       "alias": [
-        "RE:0"
+        "RE:0",
+        "RE冒号0"
       ],
       "people": [
         "马廷良",
@@ -116,9 +126,10 @@
       ]
     },
     {
-      "name": "逐月之城",
+      "name": "逐月之城（雷童、吴语乐天、毕皓天）",
       "alias": [
-        "LagQualProject"
+        "LagQualProject",
+        "逐月之城"
       ],
       "people": [
         "雷童",
@@ -127,57 +138,62 @@
       ]
     },
     {
-      "name": "我不道啊",
+      "name": "我不道啊（陈启元、唐士淼、刘永琰）",
       "alias": [
-        "I do know"
+        "I do know",
+        "我不道啊"
       ],
       "people": [
         "陈启元",
-        "唐士添",
+        "唐士淼",
         "刘永琰"
       ]
     },
     {
-      "name": "三只企鹅",
+      "name": "三只企鹅（吴俞彤、丁培钊、张哲源）",
       "alias": [
-        "三只企鹅1"
+        "三只企鹅1",
+        "三只企鹅"
       ],
       "people": [
-        "吴前彬",
-        "丁培利",
+        "吴俞彤",
+        "丁培钊",
         "张哲源"
       ]
     },
     {
-      "name": "MC启动",
+      "name": "MC启动（谭斯允、姜博然、李健）",
       "alias": [
-        "Launching Minecraft"
+        "Launching Minecraft",
+        "MC启动"
       ],
       "people": [
-        "潘斯允",
-        "姜博安",
-        "李博"
+        "谭斯允",
+        "姜博然",
+        "李健"
       ]
     },
     {
-      "name": "此队伍名由AI生成",
+      "name": "此队伍名由AI生成（蔡芝林、张鲁豫、赵思涵）",
       "alias": [
-        "(AI generated)"
+        "(AI generated)",
+        "此队伍名由AI生成"
       ],
       "people": [
-        "蔡艺林",
+        "蔡芝林",
         "张鲁豫",
         "赵思涵"
       ]
     },
     {
-      "name": "Synthesis",
+      "name": "Synthesis（吴显熠、詹笙平、李天阳）",
       "alias": [
+        "Synthesis",
         "Synthesis"
       ],
       "people": [
         "吴显熠",
-        "詹笔平",
+        "詹笙平",
         "李天阳"
       ]
     }
