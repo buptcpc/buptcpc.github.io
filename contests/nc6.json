@@ -1005,6 +1005,65 @@
   {
     "detail": {
       "A": {
+        "time": 233,
+        "tries": 0
+      },
+      "B": {
+        "time": 189,
+        "tries": 0
+      },
+      "C": {
+        "time": 32,
+        "tries": 0
+      },
+      "D": {
+        "time": 132,
+        "tries": 3
+      },
+      "E": {
+        "time": 157,
+        "tries": 0
+      },
+      "F": {
+        "time": 288,
+        "tries": 0
+      },
+      "G": {
+        "time": 137,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": 282,
+        "tries": 0
+      },
+      "J": {
+        "time": 148,
+        "tries": 0
+      },
+      "K": {
+        "time": 48,
+        "tries": 1
+      },
+      "L": {
+        "time": 30,
+        "tries": 0
+      },
+      "M": {
+        "time": 295,
+        "tries": 8
+      }
+    },
+    "name": "未铭记何谈淡忘",
+    "school": "西安交通大学",
+    "rank": 18
+  },
+  {
+    "detail": {
+      "A": {
         "time": 183,
         "tries": 0
       },
@@ -1059,7 +1118,7 @@
     },
     "name": "Rubikun",
     "school": "The University of Tokyo",
-    "rank": 18
+    "rank": 19
   },
   {
     "detail": {
@@ -1118,7 +1177,7 @@
     },
     "name": "妮可妮可妮",
     "school": "国立音ノ木坂学院",
-    "rank": 19
+    "rank": 20
   },
   {
     "detail": {
@@ -1177,7 +1236,7 @@
     },
     "name": "Objective-KUB1",
     "school": "Kyoto University",
-    "rank": 20
+    "rank": 21
   },
   {
     "detail": {
@@ -1236,7 +1295,7 @@
     },
     "name": "wanna_be_free",
     "school": "西北工业大学",
-    "rank": 21
+    "rank": 22
   },
   {
     "detail": {
@@ -1295,7 +1354,7 @@
     },
     "name": "mod=993244853",
     "school": "asdf",
-    "rank": 22
+    "rank": 23
   },
   {
     "detail": {
@@ -1354,7 +1413,7 @@
     },
     "name": "sorrytarjen",
     "school": "广州市第六中学",
-    "rank": 23
+    "rank": 24
   },
   {
     "detail": {
@@ -1413,65 +1472,6 @@
     },
     "name": "杭电一队",
     "school": "杭州电子科技大学",
-    "rank": 24
-  },
-  {
-    "detail": {
-      "A": {
-        "time": 233,
-        "tries": 0
-      },
-      "B": {
-        "time": 189,
-        "tries": 0
-      },
-      "C": {
-        "time": 32,
-        "tries": 0
-      },
-      "D": {
-        "time": 132,
-        "tries": 3
-      },
-      "E": {
-        "time": 157,
-        "tries": 0
-      },
-      "F": {
-        "time": 288,
-        "tries": 0
-      },
-      "G": {
-        "time": 137,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": 282,
-        "tries": 0
-      },
-      "J": {
-        "time": 148,
-        "tries": 0
-      },
-      "K": {
-        "time": 48,
-        "tries": 1
-      },
-      "L": {
-        "time": 30,
-        "tries": 0
-      },
-      "M": {
-        "time": -1,
-        "tries": 9
-      }
-    },
-    "name": "未铭记何谈淡忘",
-    "school": "西安交通大学",
     "rank": 25
   },
   {
@@ -1654,6 +1654,65 @@
   {
     "detail": {
       "A": {
+        "time": 273,
+        "tries": 2
+      },
+      "B": {
+        "time": 240,
+        "tries": 0
+      },
+      "C": {
+        "time": 26,
+        "tries": 0
+      },
+      "D": {
+        "time": 116,
+        "tries": 0
+      },
+      "E": {
+        "time": 228,
+        "tries": 4
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": 215,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 4
+      },
+      "I": {
+        "time": 298,
+        "tries": 1
+      },
+      "J": {
+        "time": 164,
+        "tries": 0
+      },
+      "K": {
+        "time": 83,
+        "tries": 4
+      },
+      "L": {
+        "time": 34,
+        "tries": 1
+      },
+      "M": {
+        "time": 108,
+        "tries": 5
+      }
+    },
+    "name": "哈工大ACM招新美女学姐在线陪练有意者私",
+    "school": "哈尔滨工业大学",
+    "rank": 29
+  },
+  {
+    "detail": {
+      "A": {
         "time": 144,
         "tries": 0
       },
@@ -1708,7 +1767,7 @@
     },
     "name": "羊羊羊",
     "school": "北京交通大学",
-    "rank": 29
+    "rank": 30
   },
   {
     "detail": {
@@ -1767,7 +1826,7 @@
     },
     "name": "2025_Fudan_U10",
     "school": "复旦大学",
-    "rank": 30
+    "rank": 31
   },
   {
     "detail": {
@@ -1826,7 +1885,7 @@
     },
     "name": "CQOITeam",
     "school": "哈尔滨工业大学",
-    "rank": 31
+    "rank": 32
   },
   {
     "detail": {
@@ -1885,7 +1944,66 @@
     },
     "name": "于&lrm;离别之朝束起约定之花",
     "school": "同济大学",
-    "rank": 32
+    "rank": 33
+  },
+  {
+    "detail": {
+      "A": {
+        "time": 166,
+        "tries": 0
+      },
+      "B": {
+        "time": 240,
+        "tries": 0
+      },
+      "C": {
+        "time": 31,
+        "tries": 0
+      },
+      "D": {
+        "time": 52,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 6
+      },
+      "F": {
+        "time": 213,
+        "tries": 0
+      },
+      "G": {
+        "time": 239,
+        "tries": 1
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": 78,
+        "tries": 0
+      },
+      "K": {
+        "time": 47,
+        "tries": 0
+      },
+      "L": {
+        "time": 37,
+        "tries": 0
+      },
+      "M": {
+        "time": 104,
+        "tries": 3
+      }
+    },
+    "name": "打ACM导致的",
+    "school": "广东工业大学",
+    "rank": 34
   },
   {
     "detail": {
@@ -1944,7 +2062,7 @@
     },
     "name": "南方科技大学-奥斯陆",
     "school": "南方科技大学",
-    "rank": 33
+    "rank": 35
   },
   {
     "detail": {
@@ -2003,7 +2121,7 @@
     },
     "name": "比起xcpc我更喜欢拿铁（真的指咖啡）",
     "school": "南开大学",
-    "rank": 34
+    "rank": 36
   },
   {
     "detail": {
@@ -2062,7 +2180,66 @@
     },
     "name": "我们仍未知道那天所看见的acmer的名字",
     "school": "九乡河文理学院",
-    "rank": 35
+    "rank": 37
+  },
+  {
+    "detail": {
+      "A": {
+        "time": 28,
+        "tries": 0
+      },
+      "B": {
+        "time": 65,
+        "tries": 0
+      },
+      "C": {
+        "time": 92,
+        "tries": 0
+      },
+      "D": {
+        "time": 100,
+        "tries": 0
+      },
+      "E": {
+        "time": 121,
+        "tries": 1
+      },
+      "F": {
+        "time": 153,
+        "tries": 0
+      },
+      "G": {
+        "time": 174,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 4
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": 251,
+        "tries": 2
+      },
+      "L": {
+        "time": 257,
+        "tries": 0
+      },
+      "M": {
+        "time": 293,
+        "tries": 2
+      }
+    },
+    "name": "Nachia",
+    "school": "The University of Osaka",
+    "rank": 38
   },
   {
     "detail": {
@@ -2121,66 +2298,7 @@
     },
     "name": "复式高层，望海临江",
     "school": "香港科技大学（广州）",
-    "rank": 36
-  },
-  {
-    "detail": {
-      "A": {
-        "time": 273,
-        "tries": 2
-      },
-      "B": {
-        "time": 240,
-        "tries": 0
-      },
-      "C": {
-        "time": 26,
-        "tries": 0
-      },
-      "D": {
-        "time": 116,
-        "tries": 0
-      },
-      "E": {
-        "time": 228,
-        "tries": 4
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": 215,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": 298,
-        "tries": 1
-      },
-      "J": {
-        "time": 164,
-        "tries": 0
-      },
-      "K": {
-        "time": 83,
-        "tries": 4
-      },
-      "L": {
-        "time": 34,
-        "tries": 1
-      },
-      "M": {
-        "time": -1,
-        "tries": 11
-      }
-    },
-    "name": "哈工大ACM招新美女学姐在线陪练有意者私",
-    "school": "哈尔滨工业大学",
-    "rank": 37
+    "rank": 39
   },
   {
     "detail": {
@@ -2239,66 +2357,7 @@
     },
     "name": "球状闪电",
     "school": "四川大学",
-    "rank": 38
-  },
-  {
-    "detail": {
-      "A": {
-        "time": 166,
-        "tries": 0
-      },
-      "B": {
-        "time": 240,
-        "tries": 0
-      },
-      "C": {
-        "time": 31,
-        "tries": 0
-      },
-      "D": {
-        "time": 52,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 6
-      },
-      "F": {
-        "time": 213,
-        "tries": 0
-      },
-      "G": {
-        "time": 239,
-        "tries": 1
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": 78,
-        "tries": 0
-      },
-      "K": {
-        "time": 47,
-        "tries": 0
-      },
-      "L": {
-        "time": 37,
-        "tries": 0
-      },
-      "M": {
-        "time": -1,
-        "tries": 6
-      }
-    },
-    "name": "打ACM导致的",
-    "school": "广东工业大学",
-    "rank": 39
+    "rank": 40
   },
   {
     "detail": {
@@ -2357,65 +2416,6 @@
     },
     "name": "不要再打铁了",
     "school": "重庆市南开中学校",
-    "rank": 40
-  },
-  {
-    "detail": {
-      "A": {
-        "time": 28,
-        "tries": 0
-      },
-      "B": {
-        "time": 65,
-        "tries": 0
-      },
-      "C": {
-        "time": 92,
-        "tries": 0
-      },
-      "D": {
-        "time": 100,
-        "tries": 0
-      },
-      "E": {
-        "time": 121,
-        "tries": 1
-      },
-      "F": {
-        "time": 153,
-        "tries": 0
-      },
-      "G": {
-        "time": 174,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": 251,
-        "tries": 2
-      },
-      "L": {
-        "time": 257,
-        "tries": 0
-      },
-      "M": {
-        "time": -1,
-        "tries": 4
-      }
-    },
-    "name": "Nachia",
-    "school": "The University of Osaka",
     "rank": 41
   },
   {
@@ -2598,6 +2598,65 @@
   {
     "detail": {
       "A": {
+        "time": 266,
+        "tries": 0
+      },
+      "B": {
+        "time": 245,
+        "tries": 0
+      },
+      "C": {
+        "time": 20,
+        "tries": 0
+      },
+      "D": {
+        "time": 113,
+        "tries": 1
+      },
+      "E": {
+        "time": 203,
+        "tries": 4
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": 214,
+        "tries": 2
+      },
+      "K": {
+        "time": 102,
+        "tries": 6
+      },
+      "L": {
+        "time": 123,
+        "tries": 0
+      },
+      "M": {
+        "time": 276,
+        "tries": 1
+      }
+    },
+    "name": "南方科技大学-巴库",
+    "school": "南方科技大学",
+    "rank": 45
+  },
+  {
+    "detail": {
+      "A": {
         "time": -1,
         "tries": 0
       },
@@ -2652,7 +2711,7 @@
     },
     "name": "2025HDU02",
     "school": "杭州电子科技大学",
-    "rank": 45
+    "rank": 46
   },
   {
     "detail": {
@@ -2711,7 +2770,7 @@
     },
     "name": "补队",
     "school": "北京大学",
-    "rank": 46
+    "rank": 47
   },
   {
     "detail": {
@@ -2770,7 +2829,7 @@
     },
     "name": "2025_Fudan_U5",
     "school": "复旦大学附设幼儿园",
-    "rank": 47
+    "rank": 48
   },
   {
     "detail": {
@@ -2829,7 +2888,7 @@
     },
     "name": "Penalty这么高它的意思一定是分数吧",
     "school": "北京理工大学",
-    "rank": 48
+    "rank": 49
   },
   {
     "detail": {
@@ -2888,7 +2947,7 @@
     },
     "name": "郑老板怎么能是电灯泡呢？",
     "school": "西南交通大学",
-    "rank": 49
+    "rank": 50
   },
   {
     "detail": {
@@ -2947,7 +3006,7 @@
     },
     "name": "AdaptationWindow",
     "school": "南京大学",
-    "rank": 50
+    "rank": 51
   },
   {
     "detail": {
@@ -3006,7 +3065,7 @@
     },
     "name": "我队友呢？没盖亚了还能关注盖亚吗？谢谢喵！",
     "school": "华中科技大学",
-    "rank": 51
+    "rank": 52
   },
   {
     "detail": {
@@ -3065,7 +3124,7 @@
     },
     "name": "stick16",
     "school": "华中科技大学",
-    "rank": 52
+    "rank": 53
   },
   {
     "detail": {
@@ -3124,65 +3183,6 @@
     },
     "name": "猪客",
     "school": "武汉大学",
-    "rank": 53
-  },
-  {
-    "detail": {
-      "A": {
-        "time": 266,
-        "tries": 0
-      },
-      "B": {
-        "time": 245,
-        "tries": 0
-      },
-      "C": {
-        "time": 20,
-        "tries": 0
-      },
-      "D": {
-        "time": 113,
-        "tries": 1
-      },
-      "E": {
-        "time": 203,
-        "tries": 4
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": 214,
-        "tries": 2
-      },
-      "K": {
-        "time": 102,
-        "tries": 6
-      },
-      "L": {
-        "time": 123,
-        "tries": 0
-      },
-      "M": {
-        "time": -1,
-        "tries": 3
-      }
-    },
-    "name": "南方科技大学-巴库",
-    "school": "南方科技大学",
     "rank": 54
   },
   {
@@ -6791,6 +6791,65 @@
         "tries": 0
       },
       "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": 90,
+        "tries": 0
+      },
+      "D": {
+        "time": 183,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 1
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": 70,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": 141,
+        "tries": 2
+      },
+      "L": {
+        "time": 118,
+        "tries": 5
+      },
+      "M": {
+        "time": 272,
+        "tries": 2
+      }
+    },
+    "name": "manbonomore",
+    "school": "武汉理工大学",
+    "rank": 116
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
         "time": 286,
         "tries": 5
       },
@@ -6841,7 +6900,7 @@
     },
     "name": "逸群之彦",
     "school": "南京航空航天大学",
-    "rank": 116
+    "rank": 117
   },
   {
     "detail": {
@@ -6900,7 +6959,7 @@
     },
     "name": "姜还是老的辣知道不",
     "school": "浙江师范大学",
-    "rank": 117
+    "rank": 118
   },
   {
     "detail": {
@@ -6959,7 +7018,7 @@
     },
     "name": "电击曼波",
     "school": "杭州师范大学",
-    "rank": 118
+    "rank": 119
   },
   {
     "detail": {
@@ -7018,7 +7077,7 @@
     },
     "name": "星河剪枝",
     "school": "武汉大学",
-    "rank": 119
+    "rank": 120
   },
   {
     "detail": {
@@ -7077,7 +7136,7 @@
     },
     "name": "求求给我个牌吧，除了题我什么都会做的",
     "school": "厦门大学",
-    "rank": 120
+    "rank": 121
   },
   {
     "detail": {
@@ -7136,7 +7195,7 @@
     },
     "name": "高二有必要买D吗",
     "school": "广东工业大学",
-    "rank": 121
+    "rank": 122
   },
   {
     "detail": {
@@ -7195,7 +7254,7 @@
     },
     "name": "紫陌Zeeman",
     "school": "厦门理工学院",
-    "rank": 122
+    "rank": 123
   },
   {
     "detail": {
@@ -7254,7 +7313,7 @@
     },
     "name": "初音ミク-纳西妲-芙宁娜第一可爱喵",
     "school": "宁波大学",
-    "rank": 123
+    "rank": 124
   },
   {
     "detail": {
@@ -7313,7 +7372,7 @@
     },
     "name": "py.tle",
     "school": "西安理工大学",
-    "rank": 124
+    "rank": 125
   },
   {
     "detail": {
@@ -7372,7 +7431,7 @@
     },
     "name": "南方科技大学-卡拉巴赫",
     "school": "南方科技大学",
-    "rank": 125
+    "rank": 126
   },
   {
     "detail": {
@@ -7431,7 +7490,7 @@
     },
     "name": "四次延毕生也想打xcpc",
     "school": "华东理工大学",
-    "rank": 126
+    "rank": 127
   },
   {
     "detail": {
@@ -7490,7 +7549,7 @@
     },
     "name": "娜够里喵喵喵",
     "school": "往生堂",
-    "rank": 127
+    "rank": 128
   },
   {
     "detail": {
@@ -7549,7 +7608,7 @@
     },
     "name": "今晚来我床上打abc",
     "school": "大英警察小学",
-    "rank": 128
+    "rank": 129
   },
   {
     "detail": {
@@ -7608,7 +7667,7 @@
     },
     "name": "天铸币",
     "school": "北京航空航天大学",
-    "rank": 129
+    "rank": 130
   },
   {
     "detail": {
@@ -7667,7 +7726,7 @@
     },
     "name": "UESTC_等下掉线一会",
     "school": "电子科技大学",
-    "rank": 130
+    "rank": 131
   },
   {
     "detail": {
@@ -7726,7 +7785,7 @@
     },
     "name": "失落之城",
     "school": "华南理工大学",
-    "rank": 131
+    "rank": 132
   },
   {
     "detail": {
@@ -7785,7 +7844,7 @@
     },
     "name": "ln7/b",
     "school": "河海大学",
-    "rank": 132
+    "rank": 133
   },
   {
     "detail": {
@@ -7844,7 +7903,7 @@
     },
     "name": "Sonnet14",
     "school": "中南大学",
-    "rank": 133
+    "rank": 134
   },
   {
     "detail": {
@@ -7903,7 +7962,7 @@
     },
     "name": "ZJNU_xx队",
     "school": "浙江师范大学",
-    "rank": 134
+    "rank": 135
   },
   {
     "detail": {
@@ -7962,7 +8021,7 @@
     },
     "name": "树上猫猫头",
     "school": "上海大学",
-    "rank": 135
+    "rank": 136
   },
   {
     "detail": {
@@ -8021,7 +8080,7 @@
     },
     "name": "杭电七队",
     "school": "杭州电子科技大学",
-    "rank": 136
+    "rank": 137
   },
   {
     "detail": {
@@ -8080,7 +8139,7 @@
     },
     "name": "队友爱打zhou",
     "school": "齐齐哈尔卫生学院",
-    "rank": 137
+    "rank": 138
   },
   {
     "detail": {
@@ -8139,7 +8198,7 @@
     },
     "name": "No-Medal-Men",
     "school": "厦门大学",
-    "rank": 138
+    "rank": 139
   },
   {
     "detail": {
@@ -8198,7 +8257,7 @@
     },
     "name": "树状数组BIT",
     "school": "北京理工大学",
-    "rank": 139
+    "rank": 140
   },
   {
     "detail": {
@@ -8257,7 +8316,7 @@
     },
     "name": "三模哈希米",
     "school": "重庆大学",
-    "rank": 140
+    "rank": 141
   },
   {
     "detail": {
@@ -8316,7 +8375,7 @@
     },
     "name": "我太想进步了",
     "school": "北京邮电大学",
-    "rank": 141
+    "rank": 142
   },
   {
     "detail": {
@@ -8375,7 +8434,7 @@
     },
     "name": "汪汪喵喵队",
     "school": "湖南城市学院",
-    "rank": 142
+    "rank": 143
   },
   {
     "detail": {
@@ -8434,7 +8493,7 @@
     },
     "name": "过了样例就算队",
     "school": "同济大学",
-    "rank": 143
+    "rank": 144
   },
   {
     "detail": {
@@ -8493,7 +8552,7 @@
     },
     "name": "Capooiscute!!!",
     "school": "武汉理工大学",
-    "rank": 144
+    "rank": 145
   },
   {
     "detail": {
@@ -8552,7 +8611,7 @@
     },
     "name": "NWPU_Abyss",
     "school": "西北工业大学",
-    "rank": 145
+    "rank": 146
   },
   {
     "detail": {
@@ -8611,7 +8670,7 @@
     },
     "name": "再过一题",
     "school": "华中科技大学",
-    "rank": 146
+    "rank": 147
   },
   {
     "detail": {
@@ -8670,7 +8729,7 @@
     },
     "name": "这么六！",
     "school": "大连理工大学",
-    "rank": 147
+    "rank": 148
   },
   {
     "detail": {
@@ -8729,7 +8788,7 @@
     },
     "name": "CQU-Lacrimosa",
     "school": "重庆大学",
-    "rank": 148
+    "rank": 149
   },
   {
     "detail": {
@@ -8788,7 +8847,7 @@
     },
     "name": "云开自天明",
     "school": "同济大学",
-    "rank": 149
+    "rank": 150
   },
   {
     "detail": {
@@ -8847,7 +8906,7 @@
     },
     "name": "我的队友正在A题~",
     "school": "集美大学",
-    "rank": 150
+    "rank": 151
   },
   {
     "detail": {
@@ -8906,7 +8965,7 @@
     },
     "name": "Fat_Sheep",
     "school": "武汉大学",
-    "rank": 151
+    "rank": 152
   },
   {
     "detail": {
@@ -8965,7 +9024,7 @@
     },
     "name": "BJUT",
     "school": "北京工业大学",
-    "rank": 152
+    "rank": 153
   },
   {
     "detail": {
@@ -9024,7 +9083,7 @@
     },
     "name": "睡到自然醒",
     "school": "哈尔滨工业大学",
-    "rank": 153
+    "rank": 154
   },
   {
     "detail": {
@@ -9083,7 +9142,7 @@
     },
     "name": "njupt25team01",
     "school": "南京邮电大学",
-    "rank": 154
+    "rank": 155
   },
   {
     "detail": {
@@ -9142,7 +9201,7 @@
     },
     "name": "嘻小癫学院超自研",
     "school": "西安电子科技大学",
-    "rank": 155
+    "rank": 156
   },
   {
     "detail": {
@@ -9201,7 +9260,7 @@
     },
     "name": "正在验证该队是否是真人。",
     "school": "香港中文大学（深圳）",
-    "rank": 156
+    "rank": 157
   },
   {
     "detail": {
@@ -9260,7 +9319,7 @@
     },
     "name": "真的一点都不训吗？",
     "school": "华东师范大学",
-    "rank": 157
+    "rank": 158
   },
   {
     "detail": {
@@ -9319,7 +9378,7 @@
     },
     "name": "散养走地鸡",
     "school": "华南理工大学",
-    "rank": 158
+    "rank": 159
   },
   {
     "detail": {
@@ -9378,65 +9437,6 @@
     },
     "name": "泥巴动物园",
     "school": "宁波大学",
-    "rank": 159
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": 90,
-        "tries": 0
-      },
-      "D": {
-        "time": 183,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 1
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": 70,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": 141,
-        "tries": 2
-      },
-      "L": {
-        "time": 118,
-        "tries": 5
-      },
-      "M": {
-        "time": -1,
-        "tries": 12
-      }
-    },
-    "name": "manbonomore",
-    "school": "武汉理工大学",
     "rank": 160
   },
   {
@@ -18946,6 +18946,65 @@
       },
       "B": {
         "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": 83,
+        "tries": 0
+      },
+      "D": {
+        "time": 209,
+        "tries": 1
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
+        "time": 153,
+        "tries": 2
+      },
+      "M": {
+        "time": 156,
+        "tries": 4
+      }
+    },
+    "name": "非空集合",
+    "school": "南京大学",
+    "rank": 322
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
         "tries": 2
       },
       "C": {
@@ -18995,7 +19054,7 @@
     },
     "name": "LuoxuanRUSH",
     "school": "广东工业大学",
-    "rank": 322
+    "rank": 323
   },
   {
     "detail": {
@@ -19054,7 +19113,7 @@
     },
     "name": "硬币收集基金",
     "school": "哈尔滨工业大学",
-    "rank": 323
+    "rank": 324
   },
   {
     "detail": {
@@ -19113,7 +19172,7 @@
     },
     "name": "2007",
     "school": "武汉纺织大学",
-    "rank": 324
+    "rank": 325
   },
   {
     "detail": {
@@ -19172,7 +19231,7 @@
     },
     "name": "写蟒蛇写的",
     "school": "山东大学（威海）",
-    "rank": 325
+    "rank": 326
   },
   {
     "detail": {
@@ -19231,7 +19290,7 @@
     },
     "name": "SkyBlue",
     "school": "昆明理工大学",
-    "rank": 326
+    "rank": 327
   },
   {
     "detail": {
@@ -19290,7 +19349,7 @@
     },
     "name": "拿了金牌戒果汁",
     "school": "河北师范大学",
-    "rank": 327
+    "rank": 328
   },
   {
     "detail": {
@@ -19349,7 +19408,7 @@
     },
     "name": "炽热天空的另一端依然存在着未来",
     "school": "浙江工商大学",
-    "rank": 328
+    "rank": 329
   },
   {
     "detail": {
@@ -19408,7 +19467,7 @@
     },
     "name": "打ACM从没开心过",
     "school": "四川大学",
-    "rank": 329
+    "rank": 330
   },
   {
     "detail": {
@@ -19467,7 +19526,7 @@
     },
     "name": "纵有疾风起，人生不言弃",
     "school": "鲁东大学",
-    "rank": 330
+    "rank": 331
   },
   {
     "detail": {
@@ -19526,7 +19585,7 @@
     },
     "name": "HDU2025-T06",
     "school": "杭州电子科技大学",
-    "rank": 331
+    "rank": 332
   },
   {
     "detail": {
@@ -19585,7 +19644,7 @@
     },
     "name": "ecnu02",
     "school": "华东师范大学",
-    "rank": 332
+    "rank": 333
   },
   {
     "detail": {
@@ -19644,7 +19703,7 @@
     },
     "name": "北林信息众",
     "school": "北京林业大学",
-    "rank": 333
+    "rank": 334
   },
   {
     "detail": {
@@ -19703,7 +19762,7 @@
     },
     "name": "不要视检",
     "school": "北京航空航天大学",
-    "rank": 334
+    "rank": 335
   },
   {
     "detail": {
@@ -19762,7 +19821,7 @@
     },
     "name": "KnightCatsstepintoacm",
     "school": "浙江工商大学",
-    "rank": 335
+    "rank": 336
   },
   {
     "detail": {
@@ -19821,7 +19880,7 @@
     },
     "name": "退役了还来丢人",
     "school": "香港大学",
-    "rank": 336
+    "rank": 337
   },
   {
     "detail": {
@@ -19880,7 +19939,7 @@
     },
     "name": "jiangly临时有事由我们来替他捧杯",
     "school": "石家庄石门实验学校",
-    "rank": 337
+    "rank": 338
   },
   {
     "detail": {
@@ -19939,7 +19998,7 @@
     },
     "name": "dddddddd",
     "school": "东北大学",
-    "rank": 338
+    "rank": 339
   },
   {
     "detail": {
@@ -19998,7 +20057,7 @@
     },
     "name": "2025_Fudan_U14",
     "school": "复旦大学",
-    "rank": 339
+    "rank": 340
   },
   {
     "detail": {
@@ -20057,7 +20116,7 @@
     },
     "name": "qfl_zzz",
     "school": "广州大学",
-    "rank": 340
+    "rank": 341
   },
   {
     "detail": {
@@ -20116,7 +20175,7 @@
     },
     "name": "喵喵喵~=^●&omega;●^=",
     "school": "安徽大学",
-    "rank": 341
+    "rank": 342
   },
   {
     "detail": {
@@ -20175,7 +20234,7 @@
     },
     "name": "O泡果奶要要要",
     "school": "中国地质大学（北京）",
-    "rank": 342
+    "rank": 343
   },
   {
     "detail": {
@@ -20234,7 +20293,7 @@
     },
     "name": "重生之全都能做队",
     "school": "四川大学",
-    "rank": 343
+    "rank": 344
   },
   {
     "detail": {
@@ -20293,7 +20352,7 @@
     },
     "name": "NEU_cout&lt;&lt;rand();",
     "school": "东北大学",
-    "rank": 344
+    "rank": 345
   },
   {
     "detail": {
@@ -20352,7 +20411,7 @@
     },
     "name": "啊啊啊啊宝宝你是一个香香软软甜甜糯糯酥酥脆脆滑滑嫩嫩叮叮咚咚",
     "school": "西北工业大学",
-    "rank": 345
+    "rank": 346
   },
   {
     "detail": {
@@ -20411,7 +20470,7 @@
     },
     "name": "自由发挥",
     "school": "河南大学",
-    "rank": 346
+    "rank": 347
   },
   {
     "detail": {
@@ -20470,7 +20529,7 @@
     },
     "name": "灵感小企鹅",
     "school": "华东师范大学",
-    "rank": 347
+    "rank": 348
   },
   {
     "detail": {
@@ -20529,7 +20588,7 @@
     },
     "name": "go学长带着瓦妈妈逃离三角洲去打舞萌",
     "school": "哈尔滨工程大学",
-    "rank": 348
+    "rank": 349
   },
   {
     "detail": {
@@ -20588,7 +20647,7 @@
     },
     "name": "今晚和队友打ABC",
     "school": "上海理工大学",
-    "rank": 349
+    "rank": 350
   },
   {
     "detail": {
@@ -20647,7 +20706,7 @@
     },
     "name": "temp1",
     "school": "西北工业大学",
-    "rank": 350
+    "rank": 351
   },
   {
     "detail": {
@@ -20706,7 +20765,7 @@
     },
     "name": "想学人工智能",
     "school": "四川大学",
-    "rank": 351
+    "rank": 352
   },
   {
     "detail": {
@@ -20765,7 +20824,7 @@
     },
     "name": "加油！qql",
     "school": "湖南大学",
-    "rank": 352
+    "rank": 353
   },
   {
     "detail": {
@@ -20824,7 +20883,7 @@
     },
     "name": "超级飞侠快使用肘击。",
     "school": "福建师范大学",
-    "rank": 353
+    "rank": 354
   },
   {
     "detail": {
@@ -20883,7 +20942,7 @@
     },
     "name": "河西食堂转生队",
     "school": "华东师范大学",
-    "rank": 354
+    "rank": 355
   },
   {
     "detail": {
@@ -20942,7 +21001,7 @@
     },
     "name": "不开心就异或一下",
     "school": "湖南财政经济学院",
-    "rank": 355
+    "rank": 356
   },
   {
     "detail": {
@@ -21001,7 +21060,7 @@
     },
     "name": "SHOU2025",
     "school": "上海海洋大学",
-    "rank": 356
+    "rank": 357
   },
   {
     "detail": {
@@ -21060,7 +21119,7 @@
     },
     "name": "忆月葬雪",
     "school": "西北大学",
-    "rank": 357
+    "rank": 358
   },
   {
     "detail": {
@@ -21119,7 +21178,7 @@
     },
     "name": "UESTC_在理工学校想邂逅艺术学妹搞错了什么",
     "school": "电子科技大学",
-    "rank": 358
+    "rank": 359
   },
   {
     "detail": {
@@ -21178,7 +21237,7 @@
     },
     "name": "魔法杯面飞鼠令",
     "school": "华南师范大学",
-    "rank": 359
+    "rank": 360
   },
   {
     "detail": {
@@ -21237,7 +21296,7 @@
     },
     "name": "小AC找码码",
     "school": "北京林业大学",
-    "rank": 360
+    "rank": 361
   },
   {
     "detail": {
@@ -21296,7 +21355,7 @@
     },
     "name": "玻璃心魔怔地雷",
     "school": "",
-    "rank": 361
+    "rank": 362
   },
   {
     "detail": {
@@ -21355,7 +21414,7 @@
     },
     "name": "助力四级听力全队",
     "school": "北京林业大学",
-    "rank": 362
+    "rank": 363
   },
   {
     "detail": {
@@ -21414,7 +21473,7 @@
     },
     "name": "主干道禁止停车",
     "school": "武宁一中",
-    "rank": 363
+    "rank": 364
   },
   {
     "detail": {
@@ -21473,7 +21532,7 @@
     },
     "name": "acmhitme",
     "school": "北京林业大学",
-    "rank": 364
+    "rank": 365
   },
   {
     "detail": {
@@ -21532,7 +21591,7 @@
     },
     "name": "奇星雨乐",
     "school": "南京信息工程大学",
-    "rank": 365
+    "rank": 366
   },
   {
     "detail": {
@@ -21591,7 +21650,7 @@
     },
     "name": "编程小纵队",
     "school": "北京理工大学",
-    "rank": 366
+    "rank": 367
   },
   {
     "detail": {
@@ -21650,7 +21709,7 @@
     },
     "name": "相遇*天使",
     "school": "大英警察小学",
-    "rank": 367
+    "rank": 368
   },
   {
     "detail": {
@@ -21709,7 +21768,7 @@
     },
     "name": "加睡",
     "school": "广东工业大学",
-    "rank": 368
+    "rank": 369
   },
   {
     "detail": {
@@ -21768,7 +21827,7 @@
     },
     "name": "唐龙",
     "school": "广州市第六中学",
-    "rank": 369
+    "rank": 370
   },
   {
     "detail": {
@@ -21827,7 +21886,7 @@
     },
     "name": "NEU_计二一软",
     "school": "东北大学",
-    "rank": 370
+    "rank": 371
   },
   {
     "detail": {
@@ -21886,7 +21945,7 @@
     },
     "name": "自己选择自己承担队",
     "school": "重庆大学",
-    "rank": 371
+    "rank": 372
   },
   {
     "detail": {
@@ -21945,7 +22004,7 @@
     },
     "name": "叫什么名字呢",
     "school": "苏州大学",
-    "rank": 372
+    "rank": 373
   },
   {
     "detail": {
@@ -22004,7 +22063,7 @@
     },
     "name": "调一下午还不队",
     "school": "天津大学",
-    "rank": 373
+    "rank": 374
   },
   {
     "detail": {
@@ -22063,7 +22122,7 @@
     },
     "name": "欧内盖，如果没有ac的话，瓦达西",
     "school": "中国矿业大学（北京）",
-    "rank": 374
+    "rank": 375
   },
   {
     "detail": {
@@ -22122,7 +22181,7 @@
     },
     "name": "ACMerReincarnation",
     "school": "中北大学",
-    "rank": 375
+    "rank": 376
   },
   {
     "detail": {
@@ -22181,7 +22240,7 @@
     },
     "name": "一场3AC，霸总AK套路深",
     "school": "浙大宁波理工学院",
-    "rank": 376
+    "rank": 377
   },
   {
     "detail": {
@@ -22240,7 +22299,7 @@
     },
     "name": "中传赶紧修梆子井地道队",
     "school": "中国传媒大学",
-    "rank": 377
+    "rank": 378
   },
   {
     "detail": {
@@ -22299,7 +22358,7 @@
     },
     "name": "ZJUT4_TEMP_TEAM_NAME_OF_2/3",
     "school": "浙江工业大学",
-    "rank": 378
+    "rank": 379
   },
   {
     "detail": {
@@ -22358,7 +22417,7 @@
     },
     "name": "由乃",
     "school": "广州市第六中学",
-    "rank": 379
+    "rank": 380
   },
   {
     "detail": {
@@ -22417,7 +22476,7 @@
     },
     "name": "字典树吃了我wa",
     "school": "深圳大学",
-    "rank": 380
+    "rank": 381
   },
   {
     "detail": {
@@ -22476,7 +22535,7 @@
     },
     "name": "SZTU_SleepSort",
     "school": "深圳技术大学",
-    "rank": 381
+    "rank": 382
   },
   {
     "detail": {
@@ -22535,7 +22594,7 @@
     },
     "name": "执神剑闯天下",
     "school": "同济大学",
-    "rank": 382
+    "rank": 383
   },
   {
     "detail": {
@@ -22594,7 +22653,7 @@
     },
     "name": "Icy_firefly",
     "school": "澳门大学",
-    "rank": 383
+    "rank": 384
   },
   {
     "detail": {
@@ -22653,7 +22712,7 @@
     },
     "name": "金枝语叶",
     "school": "南京大学",
-    "rank": 384
+    "rank": 385
   },
   {
     "detail": {
@@ -22712,7 +22771,7 @@
     },
     "name": "我不到啊，听说有学分我就来了",
     "school": "华中科技大学",
-    "rank": 385
+    "rank": 386
   },
   {
     "detail": {
@@ -22771,7 +22830,7 @@
     },
     "name": "馥梦繁花",
     "school": "湖南科技大学",
-    "rank": 386
+    "rank": 387
   },
   {
     "detail": {
@@ -22830,7 +22889,7 @@
     },
     "name": "奶龙害了你",
     "school": "华中师范大学",
-    "rank": 387
+    "rank": 388
   },
   {
     "detail": {
@@ -22888,8 +22947,8 @@
       }
     },
     "name": "1960665902",
-    "school": "湖南科技大学潇湘学院",
-    "rank": 388
+    "school": "湖南科技大学",
+    "rank": 389
   },
   {
     "detail": {
@@ -22948,7 +23007,7 @@
     },
     "name": "湖南小清华",
     "school": "湖南城市学院",
-    "rank": 389
+    "rank": 390
   },
   {
     "detail": {
@@ -23007,7 +23066,7 @@
     },
     "name": "无色透明",
     "school": "揭阳职业技术学院",
-    "rank": 390
+    "rank": 391
   },
   {
     "detail": {
@@ -23066,7 +23125,7 @@
     },
     "name": "ICPC铜牌守门员",
     "school": "浙江理工大学",
-    "rank": 391
+    "rank": 392
   },
   {
     "detail": {
@@ -23125,7 +23184,7 @@
     },
     "name": "-std=c++23-Ofast-Wl",
     "school": "njupt_lyy",
-    "rank": 392
+    "rank": 393
   },
   {
     "detail": {
@@ -23184,7 +23243,7 @@
     },
     "name": "0d00爆吃0721发罚时用粉色起爆器炸毁评测机",
     "school": "河海大学",
-    "rank": 393
+    "rank": 394
   },
   {
     "detail": {
@@ -23243,7 +23302,7 @@
     },
     "name": "A了这题就吃麦旋风",
     "school": "华南师范大学",
-    "rank": 394
+    "rank": 395
   },
   {
     "detail": {
@@ -23302,7 +23361,7 @@
     },
     "name": "TQL",
     "school": "新疆大学",
-    "rank": 395
+    "rank": 396
   },
   {
     "detail": {
@@ -23361,7 +23420,7 @@
     },
     "name": "起超长的队名因长度限",
     "school": "华中科技大学",
-    "rank": 396
+    "rank": 397
   },
   {
     "detail": {
@@ -23420,7 +23479,7 @@
     },
     "name": "we_will_win",
     "school": "湖南农业大学",
-    "rank": 397
+    "rank": 398
   },
   {
     "detail": {
@@ -23479,7 +23538,7 @@
     },
     "name": "队友请我吃KFC",
     "school": "武汉纺织大学外经贸学院",
-    "rank": 398
+    "rank": 399
   },
   {
     "detail": {
@@ -23538,7 +23597,7 @@
     },
     "name": "东瓷器普通大学",
     "school": "华东师范大学",
-    "rank": 399
+    "rank": 400
   },
   {
     "detail": {
@@ -23597,7 +23656,7 @@
     },
     "name": "彩虹猫猫头",
     "school": "南京理工大学",
-    "rank": 400
+    "rank": 401
   },
   {
     "detail": {
@@ -23656,7 +23715,7 @@
     },
     "name": "AmusingCat",
     "school": "合肥大学",
-    "rank": 401
+    "rank": 402
   },
   {
     "detail": {
@@ -23715,7 +23774,7 @@
     },
     "name": "Chat_GGG",
     "school": "湖南理工学院",
-    "rank": 402
+    "rank": 403
   },
   {
     "detail": {
@@ -23774,7 +23833,7 @@
     },
     "name": "不如加训",
     "school": "哈尔滨工业大学（深圳）",
-    "rank": 403
+    "rank": 404
   },
   {
     "detail": {
@@ -23833,7 +23892,7 @@
     },
     "name": "CometCat",
     "school": "浙江工业大学",
-    "rank": 404
+    "rank": 405
   },
   {
     "detail": {
@@ -23892,7 +23951,7 @@
     },
     "name": "从壹开始的ACM生活",
     "school": "河海大学",
-    "rank": 405
+    "rank": 406
   },
   {
     "detail": {
@@ -23951,7 +24010,7 @@
     },
     "name": "yitouerbi",
     "school": "粉兔师大一附中贵阳学校",
-    "rank": 406
+    "rank": 407
   },
   {
     "detail": {
@@ -24010,7 +24069,7 @@
     },
     "name": "这是一个很重要的问题",
     "school": "武汉大学",
-    "rank": 407
+    "rank": 408
   },
   {
     "detail": {
@@ -24069,7 +24128,7 @@
     },
     "name": "老司机带带我",
     "school": "中南大学",
-    "rank": 408
+    "rank": 409
   },
   {
     "detail": {
@@ -24128,7 +24187,7 @@
     },
     "name": "高德雨和他的两个挂件",
     "school": "沙东科枝带专",
-    "rank": 409
+    "rank": 410
   },
   {
     "detail": {
@@ -24187,7 +24246,7 @@
     },
     "name": "猫鼬砼",
     "school": "四川大学",
-    "rank": 410
+    "rank": 411
   },
   {
     "detail": {
@@ -24246,7 +24305,7 @@
     },
     "name": "Joker_team",
     "school": "长沙学院",
-    "rank": 411
+    "rank": 412
   },
   {
     "detail": {
@@ -24305,7 +24364,7 @@
     },
     "name": "随便做",
     "school": "电子科技大学中山学院",
-    "rank": 412
+    "rank": 413
   },
   {
     "detail": {
@@ -24364,7 +24423,7 @@
     },
     "name": "想打一辈子算法竞赛",
     "school": "福建农林大学",
-    "rank": 413
+    "rank": 414
   },
   {
     "detail": {
@@ -24423,7 +24482,7 @@
     },
     "name": "星辰远征军",
     "school": "山东大学",
-    "rank": 414
+    "rank": 415
   },
   {
     "detail": {
@@ -24482,7 +24541,7 @@
     },
     "name": "ParallelAc",
     "school": "武汉大学",
-    "rank": 415
+    "rank": 416
   },
   {
     "detail": {
@@ -24541,7 +24600,7 @@
     },
     "name": "三只企鹅1",
     "school": "北京邮电大学",
-    "rank": 416
+    "rank": 417
   },
   {
     "detail": {
@@ -24600,7 +24659,7 @@
     },
     "name": "星穹旅行客",
     "school": "华中科技大学",
-    "rank": 417
+    "rank": 418
   },
   {
     "detail": {
@@ -24659,7 +24718,7 @@
     },
     "name": "win！",
     "school": "西北大学",
-    "rank": 418
+    "rank": 419
   },
   {
     "detail": {
@@ -24718,7 +24777,7 @@
     },
     "name": "今宵露宿何妨",
     "school": "北京交通大学",
-    "rank": 419
+    "rank": 420
   },
   {
     "detail": {
@@ -24777,7 +24836,7 @@
     },
     "name": "CSU111",
     "school": "中南大学",
-    "rank": 420
+    "rank": 421
   },
   {
     "detail": {
@@ -24836,7 +24895,7 @@
     },
     "name": "异世界编程使者",
     "school": "南京信息工程大学",
-    "rank": 421
+    "rank": 422
   },
   {
     "detail": {
@@ -24895,7 +24954,7 @@
     },
     "name": "君不见，高堂评测悲全wa",
     "school": "湖南理工学院",
-    "rank": 422
+    "rank": 423
   },
   {
     "detail": {
@@ -24954,7 +25013,7 @@
     },
     "name": "加载中，请稍候",
     "school": "哈尔滨工业大学",
-    "rank": 423
+    "rank": 424
   },
   {
     "detail": {
@@ -25013,7 +25072,7 @@
     },
     "name": "GXB，我们喜欢你",
     "school": "西安电子科技大学",
-    "rank": 424
+    "rank": 425
   },
   {
     "detail": {
@@ -25072,7 +25131,7 @@
     },
     "name": "2025_Fudan_U6",
     "school": "复旦大学",
-    "rank": 425
+    "rank": 426
   },
   {
     "detail": {
@@ -25131,7 +25190,7 @@
     },
     "name": "不喜欢暴力的袋鼠哥哥",
     "school": "华中农业大学",
-    "rank": 426
+    "rank": 427
   },
   {
     "detail": {
@@ -25190,7 +25249,7 @@
     },
     "name": "失眠数羊",
     "school": "广东外语外贸大学",
-    "rank": 427
+    "rank": 428
   },
   {
     "detail": {
@@ -25249,7 +25308,7 @@
     },
     "name": "啊啊啊宝宝你是ac自动机fail树上dfs序建可持久化线段树",
     "school": "AAA",
-    "rank": 428
+    "rank": 429
   },
   {
     "detail": {
@@ -25308,7 +25367,7 @@
     },
     "name": "阿库赛尔最强超绝圣剑美少女妹妹谢谢你爱丽丝",
     "school": "浙大城市学院",
-    "rank": 429
+    "rank": 430
   },
   {
     "detail": {
@@ -25367,7 +25426,7 @@
     },
     "name": "哇多麼好的機會啊",
     "school": "武汉大学",
-    "rank": 430
+    "rank": 431
   },
   {
     "detail": {
@@ -25426,7 +25485,7 @@
     },
     "name": "残缺的彩虹",
     "school": "云南大学",
-    "rank": 431
+    "rank": 432
   },
   {
     "detail": {
@@ -25485,7 +25544,7 @@
     },
     "name": "时茧织光",
     "school": "惠州学院",
-    "rank": 432
+    "rank": 433
   },
   {
     "detail": {
@@ -25544,7 +25603,7 @@
     },
     "name": "逐月之城",
     "school": "北京邮电大学",
-    "rank": 433
+    "rank": 434
   },
   {
     "detail": {
@@ -25603,7 +25662,7 @@
     },
     "name": "legend",
     "school": "中国矿业大学（北京）",
-    "rank": 434
+    "rank": 435
   },
   {
     "detail": {
@@ -25662,7 +25721,7 @@
     },
     "name": "GDUT_qwq",
     "school": "广东工业大学",
-    "rank": 435
+    "rank": 436
   },
   {
     "detail": {
@@ -25721,7 +25780,7 @@
     },
     "name": "机魂大悦",
     "school": "湘潭大学",
-    "rank": 436
+    "rank": 437
   },
   {
     "detail": {
@@ -25780,7 +25839,7 @@
     },
     "name": "让我康康",
     "school": "福州大学",
-    "rank": 437
+    "rank": 438
   },
   {
     "detail": {
@@ -25839,7 +25898,7 @@
     },
     "name": "压缩饼干",
     "school": "浙江财经大学",
-    "rank": 438
+    "rank": 439
   },
   {
     "detail": {
@@ -25898,7 +25957,7 @@
     },
     "name": "tjuacm0队",
     "school": "天津大学",
-    "rank": 439
+    "rank": 440
   },
   {
     "detail": {
@@ -25957,7 +26016,7 @@
     },
     "name": "分形黄昏",
     "school": "山东大学",
-    "rank": 440
+    "rank": 441
   },
   {
     "detail": {
@@ -26016,7 +26075,7 @@
     },
     "name": "cugbcoder",
     "school": "中国地质大学（北京）",
-    "rank": 441
+    "rank": 442
   },
   {
     "detail": {
@@ -26075,7 +26134,7 @@
     },
     "name": "TJU-9",
     "school": "天津大学",
-    "rank": 442
+    "rank": 443
   },
   {
     "detail": {
@@ -26134,7 +26193,7 @@
     },
     "name": "奶龙小队",
     "school": "大连理工大学",
-    "rank": 443
+    "rank": 444
   },
   {
     "detail": {
@@ -26193,7 +26252,7 @@
     },
     "name": "NoTeamName?",
     "school": "华东交通大学",
-    "rank": 444
+    "rank": 445
   },
   {
     "detail": {
@@ -26252,7 +26311,7 @@
     },
     "name": "棋逢对手，将遇良才",
     "school": "青岛理工大学",
-    "rank": 445
+    "rank": 446
   },
   {
     "detail": {
@@ -26311,7 +26370,7 @@
     },
     "name": "你，去比赛了吧...和我不认识的人一起",
     "school": "山东大学",
-    "rank": 446
+    "rank": 447
   },
   {
     "detail": {
@@ -26370,7 +26429,7 @@
     },
     "name": "NEU_我都可以",
     "school": "东北大学",
-    "rank": 447
+    "rank": 448
   },
   {
     "detail": {
@@ -26429,7 +26488,7 @@
     },
     "name": "兄弟，你怎么还在WA",
     "school": "浙江理工大学",
-    "rank": 448
+    "rank": 449
   },
   {
     "detail": {
@@ -26488,7 +26547,7 @@
     },
     "name": "Rebellion",
     "school": "华东师范大学",
-    "rank": 449
+    "rank": 450
   },
   {
     "detail": {
@@ -26547,7 +26606,7 @@
     },
     "name": "做题一定要AC！",
     "school": "南京理工大学",
-    "rank": 450
+    "rank": 451
   },
   {
     "detail": {
@@ -26606,7 +26665,7 @@
     },
     "name": "好想玩道德与法治6",
     "school": "河南大学",
-    "rank": 451
+    "rank": 452
   },
   {
     "detail": {
@@ -26665,7 +26724,7 @@
     },
     "name": "NEU_迈出起名第一步ovo",
     "school": "东北大学",
-    "rank": 452
+    "rank": 453
   },
   {
     "detail": {
@@ -26724,7 +26783,7 @@
     },
     "name": "大明湖水怪2.0",
     "school": "山东建筑大学",
-    "rank": 453
+    "rank": 454
   },
   {
     "detail": {
@@ -26783,7 +26842,7 @@
     },
     "name": "憧憬成为AC大帝",
     "school": "华中农业大学",
-    "rank": 454
+    "rank": 455
   },
   {
     "detail": {
@@ -26842,7 +26901,7 @@
     },
     "name": "一个有意思的队名",
     "school": "山东建筑大学",
-    "rank": 455
+    "rank": 456
   },
   {
     "detail": {
@@ -26901,7 +26960,7 @@
     },
     "name": "求求你们都别打xcpc了",
     "school": "湖南科技大学",
-    "rank": 456
+    "rank": 457
   },
   {
     "detail": {
@@ -26960,7 +27019,7 @@
     },
     "name": "以上队伍通过图灵测试",
     "school": "北京邮电大学",
-    "rank": 457
+    "rank": 458
   },
   {
     "detail": {
@@ -27019,7 +27078,7 @@
     },
     "name": "重生之我是躺赢狗",
     "school": "北京航空航天大学",
-    "rank": 458
+    "rank": 459
   },
   {
     "detail": {
@@ -27078,7 +27137,7 @@
     },
     "name": "队友说：&ldquo;这题我会&rdquo;，然后沉默了两个小时",
     "school": "湖南城市学院",
-    "rank": 459
+    "rank": 460
   },
   {
     "detail": {
@@ -27137,7 +27196,7 @@
     },
     "name": "1010011010演都不演了",
     "school": "山东大学",
-    "rank": 460
+    "rank": 461
   },
   {
     "detail": {
@@ -27196,7 +27255,7 @@
     },
     "name": "^v^",
     "school": "天津大学",
-    "rank": 461
+    "rank": 462
   },
   {
     "detail": {
@@ -27255,7 +27314,7 @@
     },
     "name": "justsleeeeep",
     "school": "浙大宁波理工学院",
-    "rank": 462
+    "rank": 463
   },
   {
     "detail": {
@@ -27314,7 +27373,7 @@
     },
     "name": "foreverband",
     "school": "华南理工大学",
-    "rank": 463
+    "rank": 464
   },
   {
     "detail": {
@@ -27373,7 +27432,7 @@
     },
     "name": "Raven",
     "school": "山东科技大学",
-    "rank": 464
+    "rank": 465
   },
   {
     "detail": {
@@ -27432,7 +27491,7 @@
     },
     "name": "BY.小羊驼",
     "school": "西安电子科技大学",
-    "rank": 465
+    "rank": 466
   },
   {
     "detail": {
@@ -27491,7 +27550,7 @@
     },
     "name": "2025_Fudan_U8",
     "school": "复旦大学",
-    "rank": 466
+    "rank": 467
   },
   {
     "detail": {
@@ -27550,7 +27609,7 @@
     },
     "name": "起什么名字不如AC",
     "school": "青岛大学",
-    "rank": 467
+    "rank": 468
   },
   {
     "detail": {
@@ -27609,7 +27668,7 @@
     },
     "name": "草",
     "school": "香加里敦大学",
-    "rank": 468
+    "rank": 469
   },
   {
     "detail": {
@@ -27668,7 +27727,7 @@
     },
     "name": "WA出三室一厅",
     "school": "武汉理工大学",
-    "rank": 469
+    "rank": 470
   },
   {
     "detail": {
@@ -27727,7 +27786,7 @@
     },
     "name": "3YINGVSACM",
     "school": "上海理工大学",
-    "rank": 470
+    "rank": 471
   },
   {
     "detail": {
@@ -27786,7 +27845,7 @@
     },
     "name": "男生acm名字",
     "school": "浙江工商大学",
-    "rank": 471
+    "rank": 472
   },
   {
     "detail": {
@@ -27845,7 +27904,7 @@
     },
     "name": "哈吉米",
     "school": "西安电子科技大学",
-    "rank": 472
+    "rank": 473
   },
   {
     "detail": {
@@ -27904,7 +27963,7 @@
     },
     "name": "Blessing",
     "school": "浙江农林大学",
-    "rank": 473
+    "rank": 474
   },
   {
     "detail": {
@@ -27963,65 +28022,6 @@
     },
     "name": "复制粘贴",
     "school": "南通大学",
-    "rank": 474
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": 83,
-        "tries": 0
-      },
-      "D": {
-        "time": 209,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": 153,
-        "tries": 2
-      },
-      "M": {
-        "time": -1,
-        "tries": 5
-      }
-    },
-    "name": "非空集合",
-    "school": "南京大学",
     "rank": 475
   },
   {
@@ -72262,6 +72262,65 @@
         "tries": 0
       },
       "L": {
+        "time": -1,
+        "tries": 0
+      },
+      "M": {
+        "time": 293,
+        "tries": 5
+      }
+    },
+    "name": "BitByBit",
+    "school": "广东工业大学",
+    "rank": 1234
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": -1,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
         "time": 257,
         "tries": 7
       },
@@ -72272,7 +72331,7 @@
     },
     "name": "交了就ac队",
     "school": "华南农业大学",
-    "rank": 1234
+    "rank": 1235
   },
   {
     "detail": {
@@ -72331,7 +72390,7 @@
     },
     "name": "随便一个队名",
     "school": "南华大学",
-    "rank": 1235
+    "rank": 1236
   },
   {
     "detail": {
@@ -72390,7 +72449,7 @@
     },
     "name": "队名现在没想好",
     "school": "南阳理工学院",
-    "rank": 1236
+    "rank": 1237
   },
   {
     "detail": {
@@ -72449,7 +72508,7 @@
     },
     "name": "不爆0就是win！",
     "school": "海南大学",
-    "rank": 1237
+    "rank": 1238
   },
   {
     "detail": {
@@ -72508,7 +72567,7 @@
     },
     "name": "微澜",
     "school": "湖南城市学院",
-    "rank": 1238
+    "rank": 1239
   },
   {
     "detail": {
@@ -72567,65 +72626,6 @@
     },
     "name": "啊对对对对对对对对对队",
     "school": "南阳理工学院",
-    "rank": 1239
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      },
-      "M": {
-        "time": 295,
-        "tries": 6
-      }
-    },
-    "name": "BitByBit",
-    "school": "广东工业大学",
     "rank": 1240
   },
   {
