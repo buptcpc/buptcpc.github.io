@@ -13,6 +13,7 @@ def process_contest_data(cid, index):
     
     try:
         # 分页获取所有数据
+        rankings = 0
         for page in range(1, ALL+1):
             url = f"https://ac.nowcoder.com/acm-heavy/acm/contest/real-time-rank-data?token=&id={cid}&page={page}&limit=0"
             response = session.get(url, timeout=10)
@@ -23,6 +24,7 @@ def process_contest_data(cid, index):
             basic_info = data.get('basicInfo', {})
             
             for record in data.get('rankData', []):
+                rankings += 1
                 detail = {}
                 for idx, problem in enumerate(problem_data):
                     score = record['scoreList'][idx]
@@ -39,7 +41,7 @@ def process_contest_data(cid, index):
                         'tries': score.get('failedCount', 0)
                     }
                 
-                ranks[record['ranking']] = {
+                ranks[rankings] = {
                     'detail': detail,
                     'name': record['userName'],
                     'school': record.get('school', ''),
