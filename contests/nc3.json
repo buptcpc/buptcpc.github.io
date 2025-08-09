@@ -18668,6 +18668,57 @@
   {
     "detail": {
       "A": {
+        "time": 99,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 11
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": 57,
+        "tries": 1
+      },
+      "E": {
+        "time": 94,
+        "tries": 6
+      },
+      "F": {
+        "time": 24,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": 183,
+        "tries": 1
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": 23,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "自由曲面",
+    "school": "上海理工大学",
+    "rank": 367
+  },
+  {
+    "detail": {
+      "A": {
         "time": 115,
         "tries": 0
       },
@@ -33815,6 +33866,57 @@
   {
     "detail": {
       "A": {
+        "time": 207,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": 77,
+        "tries": 1
+      },
+      "E": {
+        "time": 184,
+        "tries": 3
+      },
+      "F": {
+        "time": 22,
+        "tries": 1
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 1
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": 29,
+        "tries": 1
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "编程小纵队",
+    "school": "北京理工大学",
+    "rank": 665
+  },
+  {
+    "detail": {
+      "A": {
         "time": 230,
         "tries": 1
       },
@@ -36361,6 +36463,57 @@
     "name": "NEU_氕氘氚",
     "school": "东北大学",
     "rank": 715
+  },
+  {
+    "detail": {
+      "A": {
+        "time": 251,
+        "tries": 1
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": 52,
+        "tries": 0
+      },
+      "E": {
+        "time": 147,
+        "tries": 1
+      },
+      "F": {
+        "time": 24,
+        "tries": 1
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": 93,
+        "tries": 4
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "ASTRONOMY",
+    "school": "中北大学",
+    "rank": 716
   },
   {
     "detail": {
@@ -42787,6 +42940,57 @@
     "name": "Ciallo的每一天",
     "school": "华南农业大学",
     "rank": 842
+  },
+  {
+    "detail": {
+      "A": {
+        "time": 238,
+        "tries": 1
+      },
+      "B": {
+        "time": -1,
+        "tries": 15
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": 66,
+        "tries": 1
+      },
+      "E": {
+        "time": 271,
+        "tries": 22
+      },
+      "F": {
+        "time": 19,
+        "tries": 1
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": 61,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "三个键盘手也能组一辈子的乐队吗？",
+    "school": "华南农业大学",
+    "rank": 843
   },
   {
     "detail": {
@@ -62591,6 +62795,57 @@
         "tries": 0
       },
       "D": {
+        "time": 87,
+        "tries": 1
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": 19,
+        "tries": 1
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": 41,
+        "tries": 2
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "不吃蔬菜",
+    "school": "东华大学",
+    "rank": 1232
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
         "time": 55,
         "tries": 2
       },
@@ -71771,6 +72026,57 @@
         "tries": 0
       },
       "D": {
+        "time": 152,
+        "tries": 4
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": 39,
+        "tries": 1
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": 180,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "acacacac",
+    "school": "河南财政金融学院",
+    "rank": 1413
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
         "time": 106,
         "tries": 7
       },
@@ -72673,6 +72979,57 @@
     "name": "sjw",
     "school": "上海财经大学",
     "rank": 1431
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 5
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": 149,
+        "tries": 2
+      },
+      "E": {
+        "time": -1,
+        "tries": 2
+      },
+      "F": {
+        "time": 11,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": 118,
+        "tries": 10
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "清纯白猫小萝莉",
+    "school": "合肥大学",
+    "rank": 1432
   },
   {
     "detail": {
