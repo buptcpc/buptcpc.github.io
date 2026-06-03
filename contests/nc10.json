@@ -76465,62 +76465,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 1
-      },
-      "F": {
-        "time": -1,
         "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "Cs+Au=摄金",
-    "school": "郑州商学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
       },
       "E": {
         "time": -1,
@@ -76555,64 +76500,9 @@
         "tries": 0
       }
     },
-    "name": "铃兰小姐是我们的光",
-    "school": "浙江机电职业技术大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "ac要在wa掉之后",
-    "school": "滁州学院",
-    "rank": 1341
+    "name": "ASTRONOMY",
+    "school": "门头沟学院",
+    "rank": 0
   },
   {
     "detail": {
@@ -76658,16 +76548,16 @@
       },
       "K": {
         "time": -1,
-        "tries": 4
+        "tries": 0
       },
       "L": {
         "time": -1,
         "tries": 0
       }
     },
-    "name": "极点",
-    "school": "江西农业大学",
-    "rank": 1341
+    "name": "因为太怕WA所以全点AC了",
+    "school": "长安大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -76685,62 +76575,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
         "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "随机个名字",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
       },
       "E": {
         "time": -1,
@@ -76775,2044 +76610,9 @@
         "tries": 0
       }
     },
-    "name": "team11234",
-    "school": "重庆科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "队名/",
-    "school": "河北师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "HelloWorld!",
-    "school": "四川师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "每一题都队",
-    "school": "湖南人文科技学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "凹嗷奥熬袄",
-    "school": "江南大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "爱鸡TV之我不要爱我要麦",
-    "school": "杭州电子科技大学信息工程学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "皮匠智囊团",
-    "school": "重庆科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 5
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "太行之阳",
-    "school": "新疆乌鲁木齐市第126中学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 6
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "恋恋的acm集训队",
-    "school": "西安科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 9
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "后来的我们",
-    "school": "华南师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "Vlad66",
-    "school": "韶关学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "我是终将升起的烈阳！",
-    "school": "闽南师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "WA与蒟蒻同在",
-    "school": "广东工业大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "root",
-    "school": "中国地质大学（武汉）",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "很可以",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 9
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "木叶f4",
-    "school": "南京邮电大学通达学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "zzwwhh",
-    "school": "重庆科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "单击此处设置文本",
-    "school": "河北建筑工程学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "不吃罚时",
-    "school": "武汉轻工大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "O(1)Assassins",
-    "school": "昆明理工大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "越看越像人机队",
-    "school": "湖南人文科技学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "想和宝宝们打一辈子acm",
-    "school": "新疆政法学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "想要天天开心",
-    "school": "鲁东大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "快乐小狗",
-    "school": "华南师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "期末不挂科",
-    "school": "玉林师范学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "呃呃呃呃呃呃呃呃",
+    "name": "宁檬",
     "school": "宁夏大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "483959387589",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "0d000721",
-    "school": "湖南工商大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "拼尽全力无法战胜队",
-    "school": "山东大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "南理6队",
-    "school": "南昌理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 11
-      },
-      "E": {
-        "time": -1,
-        "tries": 2
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "otto",
-    "school": "西安科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "可我只是海",
-    "school": "中国海洋大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "青春少年不会梦到AC",
-    "school": "四川大学锦城学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "3人队",
-    "school": "河南大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "打瓦不叫妈妈",
-    "school": "重庆大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 1
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "Cs+Au=摄金",
-    "school": "郑州商学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "铃兰小姐是我们的光",
-    "school": "浙江机电职业技术大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "ac要在wa掉之后",
-    "school": "滁州学院",
-    "rank": 1341
+    "rank": 0
   },
   {
     "detail": {
@@ -78858,16 +76658,16 @@
       },
       "K": {
         "time": -1,
-        "tries": 4
+        "tries": 0
       },
       "L": {
         "time": -1,
         "tries": 0
       }
     },
-    "name": "极点",
-    "school": "江西农业大学",
-    "rank": 1341
+    "name": "我要对你实行我的AC专属权",
+    "school": "杭州师范大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -78885,62 +76685,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
         "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "随机个名字",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
       },
       "E": {
         "time": -1,
@@ -78975,9 +76720,9 @@
         "tries": 0
       }
     },
-    "name": "team11234",
-    "school": "重庆科技大学",
-    "rank": 1341
+    "name": "icpc不拿金不改名",
+    "school": "新疆大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -79011,7 +76756,7 @@
       },
       "H": {
         "time": -1,
-        "tries": 4
+        "tries": 0
       },
       "I": {
         "time": -1,
@@ -79030,1989 +76775,449 @@
         "tries": 0
       }
     },
-    "name": "队名/",
+    "name": "WIDAfan",
+    "school": "不知道",
+    "rank": 0
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": -1,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "AAA铜牌批发",
+    "school": "华东师范大学",
+    "rank": 0
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": -1,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "月球猫猫",
+    "school": "浙江工业大学",
+    "rank": 0
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": -1,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "nkuCongratulations",
+    "school": "南开大学",
+    "rank": 0
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": -1,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "被飞哥带飞",
+    "school": "西南石油大学",
+    "rank": 0
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": -1,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "2025_Fudan_U15",
+    "school": "复旦大学",
+    "rank": 0
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": -1,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "ironman",
+    "school": "新疆师范高等专科学校",
+    "rank": 0
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": -1,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "没睡醒以至于无法进行深度求索",
+    "school": "中国人民解放军国防科技大学",
+    "rank": 0
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": -1,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "面向样例编程",
     "school": "河北师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "HelloWorld!",
-    "school": "四川师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "每一题都队",
-    "school": "湖南人文科技学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "凹嗷奥熬袄",
-    "school": "江南大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "爱鸡TV之我不要爱我要麦",
-    "school": "杭州电子科技大学信息工程学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "皮匠智囊团",
-    "school": "重庆科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 5
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "太行之阳",
-    "school": "新疆乌鲁木齐市第126中学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 6
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "恋恋的acm集训队",
-    "school": "西安科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 9
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "后来的我们",
-    "school": "华南师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "Vlad66",
-    "school": "韶关学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "我是终将升起的烈阳！",
-    "school": "闽南师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "WA与蒟蒻同在",
-    "school": "广东工业大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "root",
-    "school": "中国地质大学（武汉）",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "很可以",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 9
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "木叶f4",
-    "school": "南京邮电大学通达学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "zzwwhh",
-    "school": "重庆科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "单击此处设置文本",
-    "school": "河北建筑工程学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "不吃罚时",
-    "school": "武汉轻工大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "O(1)Assassins",
-    "school": "昆明理工大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "越看越像人机队",
-    "school": "湖南人文科技学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "想和宝宝们打一辈子acm",
-    "school": "新疆政法学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "想要天天开心",
-    "school": "鲁东大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "快乐小狗",
-    "school": "华南师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "期末不挂科",
-    "school": "玉林师范学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "呃呃呃呃呃呃呃呃",
-    "school": "宁夏大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "483959387589",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "0d000721",
-    "school": "湖南工商大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "拼尽全力无法战胜队",
-    "school": "山东大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "南理6队",
-    "school": "南昌理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 11
-      },
-      "E": {
-        "time": -1,
-        "tries": 2
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "otto",
-    "school": "西安科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "可我只是海",
-    "school": "中国海洋大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "青春少年不会梦到AC",
-    "school": "四川大学锦城学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "3人队",
-    "school": "河南大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "打瓦不叫妈妈",
-    "school": "重庆大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 1
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "Cs+Au=摄金",
-    "school": "郑州商学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "铃兰小姐是我们的光",
-    "school": "浙江机电职业技术大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "ac要在wa掉之后",
-    "school": "滁州学院",
-    "rank": 1341
+    "rank": 0
   },
   {
     "detail": {
@@ -81058,16 +77263,71 @@
       },
       "K": {
         "time": -1,
-        "tries": 4
+        "tries": 0
       },
       "L": {
         "time": -1,
         "tries": 0
       }
     },
-    "name": "极点",
+    "name": "go学长不喜欢WA",
+    "school": "青岛大学",
+    "rank": 0
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": -1,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "雾隐残花",
     "school": "江西农业大学",
-    "rank": 1341
+    "rank": 0
   },
   {
     "detail": {
@@ -81085,62 +77345,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
         "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "随机个名字",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
       },
       "E": {
         "time": -1,
@@ -81175,9 +77380,9 @@
         "tries": 0
       }
     },
-    "name": "team11234",
-    "school": "重庆科技大学",
-    "rank": 1341
+    "name": "SHNU",
+    "school": "上海师范大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -81196,61 +77401,6 @@
       "D": {
         "time": -1,
         "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "队名/",
-    "school": "河北师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
       },
       "E": {
         "time": -1,
@@ -81285,9 +77435,9 @@
         "tries": 0
       }
     },
-    "name": "HelloWorld!",
-    "school": "四川师范大学",
-    "rank": 1341
+    "name": "唐完就是送-a",
+    "school": "南京航空航天大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -81305,7 +77455,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -81340,9 +77490,9 @@
         "tries": 0
       }
     },
-    "name": "每一题都队",
-    "school": "湖南人文科技学院",
-    "rank": 1341
+    "name": "段错误幸存者",
+    "school": "莆田学院",
+    "rank": 0
   },
   {
     "detail": {
@@ -81360,7 +77510,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 4
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -81395,9 +77545,9 @@
         "tries": 0
       }
     },
-    "name": "凹嗷奥熬袄",
-    "school": "江南大学",
-    "rank": 1341
+    "name": "多娜多娜～一起来打代码吧",
+    "school": "深圳大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -81415,7 +77565,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -81450,9 +77600,9 @@
         "tries": 0
       }
     },
-    "name": "爱鸡TV之我不要爱我要麦",
-    "school": "杭州电子科技大学信息工程学院",
-    "rank": 1341
+    "name": "maimaiimpact",
+    "school": "长江大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -81470,7 +77620,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -81505,9 +77655,9 @@
         "tries": 0
       }
     },
-    "name": "皮匠智囊团",
-    "school": "重庆科技大学",
-    "rank": 1341
+    "name": "166",
+    "school": "同济大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -81526,116 +77676,6 @@
       "D": {
         "time": -1,
         "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 5
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "太行之阳",
-    "school": "新疆乌鲁木齐市第126中学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 6
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "恋恋的acm集训队",
-    "school": "西安科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 9
       },
       "E": {
         "time": -1,
@@ -81670,9 +77710,9 @@
         "tries": 0
       }
     },
-    "name": "后来的我们",
-    "school": "华南师范大学",
-    "rank": 1341
+    "name": "青春猪头少年会梦到acm拿金牌吗",
+    "school": "兰州理工大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -81690,62 +77730,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
         "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "Vlad66",
-    "school": "韶关学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
       },
       "E": {
         "time": -1,
@@ -81780,64 +77765,9 @@
         "tries": 0
       }
     },
-    "name": "我是终将升起的烈阳！",
-    "school": "闽南师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "WA与蒟蒻同在",
-    "school": "广东工业大学",
-    "rank": 1341
+    "name": "emofunx",
+    "school": "春田花花幼稚园",
+    "rank": 0
   },
   {
     "detail": {
@@ -81856,116 +77786,6 @@
       "D": {
         "time": -1,
         "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "root",
-    "school": "中国地质大学（武汉）",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "很可以",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 9
       },
       "E": {
         "time": -1,
@@ -82000,9 +77820,9 @@
         "tries": 0
       }
     },
-    "name": "木叶f4",
-    "school": "南京邮电大学通达学院",
-    "rank": 1341
+    "name": "TQL",
+    "school": "新疆大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -82020,7 +77840,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -82055,9 +77875,9 @@
         "tries": 0
       }
     },
-    "name": "zzwwhh",
-    "school": "重庆科技大学",
-    "rank": 1341
+    "name": "juiceqwq",
+    "school": "【数据删除】",
+    "rank": 0
   },
   {
     "detail": {
@@ -82075,7 +77895,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 3
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -82110,9 +77930,9 @@
         "tries": 0
       }
     },
-    "name": "单击此处设置文本",
-    "school": "河北建筑工程学院",
-    "rank": 1341
+    "name": "Nachia",
+    "school": "The University of Osaka",
+    "rank": 0
   },
   {
     "detail": {
@@ -82131,61 +77951,6 @@
       "D": {
         "time": -1,
         "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "不吃罚时",
-    "school": "武汉轻工大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
       },
       "E": {
         "time": -1,
@@ -82220,9 +77985,9 @@
         "tries": 0
       }
     },
-    "name": "O(1)Assassins",
-    "school": "昆明理工大学",
-    "rank": 1341
+    "name": "题目真的好难对",
+    "school": "同济大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -82240,7 +78005,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 2
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -82275,9 +78040,9 @@
         "tries": 0
       }
     },
-    "name": "越看越像人机队",
-    "school": "湖南人文科技学院",
-    "rank": 1341
+    "name": "哆啦AK",
+    "school": "浙江工商大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -82295,7 +78060,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 4
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -82330,9 +78095,9 @@
         "tries": 0
       }
     },
-    "name": "想和宝宝们打一辈子acm",
-    "school": "新疆政法学院",
-    "rank": 1341
+    "name": "打一辈子ACM",
+    "school": "山东建筑大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -82350,7 +78115,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -82385,9 +78150,9 @@
         "tries": 0
       }
     },
-    "name": "想要天天开心",
-    "school": "鲁东大学",
-    "rank": 1341
+    "name": "我嘞个豆豆啊",
+    "school": "成都理工大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -82405,62 +78170,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
         "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "快乐小狗",
-    "school": "华南师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
       },
       "E": {
         "time": -1,
@@ -82495,9 +78205,9 @@
         "tries": 0
       }
     },
-    "name": "期末不挂科",
-    "school": "玉林师范学院",
-    "rank": 1341
+    "name": "fangbaby自己单挑队",
+    "school": "东莞理工学院",
+    "rank": 0
   },
   {
     "detail": {
@@ -82515,62 +78225,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
         "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "呃呃呃呃呃呃呃呃",
-    "school": "宁夏大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
       },
       "E": {
         "time": -1,
@@ -82605,614 +78260,9 @@
         "tries": 0
       }
     },
-    "name": "483959387589",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "0d000721",
-    "school": "湖南工商大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "拼尽全力无法战胜队",
-    "school": "山东大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "南理6队",
-    "school": "南昌理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 11
-      },
-      "E": {
-        "time": -1,
-        "tries": 2
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "otto",
-    "school": "西安科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "可我只是海",
-    "school": "中国海洋大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "青春少年不会梦到AC",
-    "school": "四川大学锦城学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "3人队",
-    "school": "河南大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "打瓦不叫妈妈",
+    "name": "自己选择自己承担队",
     "school": "重庆大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 1
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "Cs+Au=摄金",
-    "school": "郑州商学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "铃兰小姐是我们的光",
-    "school": "浙江机电职业技术大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "ac要在wa掉之后",
-    "school": "滁州学院",
-    "rank": 1341
+    "rank": 0
   },
   {
     "detail": {
@@ -83258,16 +78308,16 @@
       },
       "K": {
         "time": -1,
-        "tries": 4
+        "tries": 0
       },
       "L": {
         "time": -1,
         "tries": 0
       }
     },
-    "name": "极点",
-    "school": "江西农业大学",
-    "rank": 1341
+    "name": "我的指针有点硬",
+    "school": "香港城市大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -83285,62 +78335,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
         "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "随机个名字",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
       },
       "E": {
         "time": -1,
@@ -83375,9 +78370,9 @@
         "tries": 0
       }
     },
-    "name": "team11234",
-    "school": "重庆科技大学",
-    "rank": 1341
+    "name": "叉烧猫大战奶茶鼠",
+    "school": "南京大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -83411,7 +78406,7 @@
       },
       "H": {
         "time": -1,
-        "tries": 4
+        "tries": 0
       },
       "I": {
         "time": -1,
@@ -83430,9 +78425,64 @@
         "tries": 0
       }
     },
-    "name": "队名/",
+    "name": "驾着马车的OIer",
+    "school": "兰州大学",
+    "rank": 0
+  },
+  {
+    "detail": {
+      "A": {
+        "time": -1,
+        "tries": 0
+      },
+      "B": {
+        "time": -1,
+        "tries": 0
+      },
+      "C": {
+        "time": -1,
+        "tries": 0
+      },
+      "D": {
+        "time": -1,
+        "tries": 0
+      },
+      "E": {
+        "time": -1,
+        "tries": 0
+      },
+      "F": {
+        "time": -1,
+        "tries": 0
+      },
+      "G": {
+        "time": -1,
+        "tries": 0
+      },
+      "H": {
+        "time": -1,
+        "tries": 0
+      },
+      "I": {
+        "time": -1,
+        "tries": 0
+      },
+      "J": {
+        "time": -1,
+        "tries": 0
+      },
+      "K": {
+        "time": -1,
+        "tries": 0
+      },
+      "L": {
+        "time": -1,
+        "tries": 0
+      }
+    },
+    "name": "wyz",
     "school": "河北师范大学",
-    "rank": 1341
+    "rank": 0
   },
   {
     "detail": {
@@ -83450,7 +78500,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -83485,9 +78535,9 @@
         "tries": 0
       }
     },
-    "name": "HelloWorld!",
-    "school": "四川师范大学",
-    "rank": 1341
+    "name": "队长霸占机子半天不A题但在封榜后狂A三题",
+    "school": "沈阳师范大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -83505,7 +78555,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -83540,9 +78590,9 @@
         "tries": 0
       }
     },
-    "name": "每一题都队",
-    "school": "湖南人文科技学院",
-    "rank": 1341
+    "name": "NJAU-没有人比我更懂AC",
+    "school": "南京农业大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -83560,7 +78610,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 4
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -83595,9 +78645,9 @@
         "tries": 0
       }
     },
-    "name": "凹嗷奥熬袄",
-    "school": "江南大学",
-    "rank": 1341
+    "name": "大明湖水怪2.0",
+    "school": "山东建筑大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -83615,7 +78665,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -83650,9 +78700,9 @@
         "tries": 0
       }
     },
-    "name": "爱鸡TV之我不要爱我要麦",
-    "school": "杭州电子科技大学信息工程学院",
-    "rank": 1341
+    "name": "待甲为4才毙",
+    "school": "深圳大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -83670,7 +78720,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
+        "tries": 0
       },
       "E": {
         "time": -1,
@@ -83705,9 +78755,9 @@
         "tries": 0
       }
     },
-    "name": "皮匠智囊团",
-    "school": "重庆科技大学",
-    "rank": 1341
+    "name": "破防了的代码渣渣很积极",
+    "school": "华东交通大学",
+    "rank": 0
   },
   {
     "detail": {
@@ -83726,116 +78776,6 @@
       "D": {
         "time": -1,
         "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 5
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "太行之阳",
-    "school": "新疆乌鲁木齐市第126中学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 6
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "恋恋的acm集训队",
-    "school": "西安科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 9
       },
       "E": {
         "time": -1,
@@ -83870,9 +78810,9 @@
         "tries": 0
       }
     },
-    "name": "后来的我们",
-    "school": "华南师范大学",
-    "rank": 1341
+    "name": "中二病也想打算竞",
+    "school": "国家法官学院",
+    "rank": 0
   },
   {
     "detail": {
@@ -83890,62 +78830,7 @@
       },
       "D": {
         "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
         "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "Vlad66",
-    "school": "韶关学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
       },
       "E": {
         "time": -1,
@@ -83980,1273 +78865,8 @@
         "tries": 0
       }
     },
-    "name": "我是终将升起的烈阳！",
-    "school": "闽南师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "WA与蒟蒻同在",
-    "school": "广东工业大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "root",
-    "school": "中国地质大学（武汉）",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "很可以",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 9
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "木叶f4",
-    "school": "南京邮电大学通达学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "zzwwhh",
-    "school": "重庆科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "单击此处设置文本",
-    "school": "河北建筑工程学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "不吃罚时",
-    "school": "武汉轻工大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "O(1)Assassins",
-    "school": "昆明理工大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "越看越像人机队",
-    "school": "湖南人文科技学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "想和宝宝们打一辈子acm",
-    "school": "新疆政法学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "想要天天开心",
-    "school": "鲁东大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "快乐小狗",
-    "school": "华南师范大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "期末不挂科",
-    "school": "玉林师范学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 4
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "呃呃呃呃呃呃呃呃",
-    "school": "宁夏大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "483959387589",
-    "school": "广州城市理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "0d000721",
-    "school": "湖南工商大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 1
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "拼尽全力无法战胜队",
-    "school": "山东大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 2
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 0
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "南理6队",
-    "school": "南昌理工学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 11
-      },
-      "E": {
-        "time": -1,
-        "tries": 2
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "otto",
-    "school": "西安科技大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 3
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 1
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "可我只是海",
-    "school": "中国海洋大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 3
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "青春少年不会梦到AC",
-    "school": "四川大学锦城学院",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 2
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "3人队",
-    "school": "河南大学",
-    "rank": 1341
-  },
-  {
-    "detail": {
-      "A": {
-        "time": -1,
-        "tries": 0
-      },
-      "B": {
-        "time": -1,
-        "tries": 0
-      },
-      "C": {
-        "time": -1,
-        "tries": 0
-      },
-      "D": {
-        "time": -1,
-        "tries": 0
-      },
-      "E": {
-        "time": -1,
-        "tries": 0
-      },
-      "F": {
-        "time": -1,
-        "tries": 0
-      },
-      "G": {
-        "time": -1,
-        "tries": 0
-      },
-      "H": {
-        "time": -1,
-        "tries": 4
-      },
-      "I": {
-        "time": -1,
-        "tries": 0
-      },
-      "J": {
-        "time": -1,
-        "tries": 0
-      },
-      "K": {
-        "time": -1,
-        "tries": 0
-      },
-      "L": {
-        "time": -1,
-        "tries": 0
-      }
-    },
-    "name": "打瓦不叫妈妈",
-    "school": "重庆大学",
-    "rank": 1341
+    "name": "acdream1",
+    "school": "华东交通大学",
+    "rank": 0
   }
 ]
